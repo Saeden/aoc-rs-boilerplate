@@ -1,0 +1,3001 @@
+current line is: 2xjzgsjzfhzhm1
+all digits this line: [2, 1]
+added digit: 21
+current line is: qhklfjd39rpjxhqtftwopfvrrj2eight
+all digits this line: [3, 9, 2, 2, 8]
+added digit: 38
+current line is: 95btwo
+all digits this line: [9, 5, 2]
+added digit: 92
+current line is: lfsqldnf3onenplgfxdjzjjnpzfxnineseven
+all digits this line: [3, 1, 9, 7]
+added digit: 37
+current line is: five7fouronesevenpfsrmszpc
+all digits this line: [5, 7, 4, 1, 7]
+added digit: 57
+current line is: xcsfkjqvln2tpm
+all digits this line: [2]
+added digit: 22
+current line is: ncjtcdb625two9
+all digits this line: [6, 2, 5, 2, 9]
+added digit: 69
+current line is: 6srtj3gfghkdtmfzseven
+all digits this line: [6, 3, 7]
+added digit: 67
+current line is: three4fournineone
+all digits this line: [3, 4, 4, 9, 1]
+added digit: 31
+current line is: pcpsxmkhdgsix25six6ngzsqzdcrb
+all digits this line: [6, 2, 5, 6, 6]
+added digit: 66
+current line is: 1sixdzhbjvnvgcxmsrlkb9xbjk7t2
+all digits this line: [1, 6, 9, 7, 2]
+added digit: 12
+current line is: dsxnfkjn2vtwofivethree2
+all digits this line: [2, 2, 5, 3, 2]
+added digit: 22
+current line is: qfbp2tpgvsxm
+all digits this line: [2]
+added digit: 22
+current line is: kvbhsseven2rkbllhrhvsevenfour2vf
+all digits this line: [7, 2, 7, 4, 2]
+added digit: 72
+current line is: bqbtzbtt3
+all digits this line: [3]
+added digit: 33
+current line is: ninek6
+all digits this line: [9, 6]
+added digit: 96
+current line is: 3fivebvqhvhlvz
+all digits this line: [3, 5]
+added digit: 35
+current line is: two68jxfnqlzfkninenine8
+all digits this line: [2, 6, 8, 9, 9, 8]
+added digit: 28
+current line is: vhckhhhb2sixtftjtdjf2nine
+all digits this line: [2, 6, 2, 9]
+added digit: 29
+current line is: 4jc
+all digits this line: [4]
+added digit: 44
+current line is: 3sevenxlxfnpk
+all digits this line: [3, 7]
+added digit: 37
+current line is: 5sjfive
+all digits this line: [5, 5]
+added digit: 55
+current line is: c8bvlkdq283rqfftj
+all digits this line: [8, 2, 8, 3]
+added digit: 83
+current line is: 8eight1threehhvmnlft
+all digits this line: [8, 8, 1, 3]
+added digit: 83
+current line is: 4sixmfcronelzcpnfourlgdbkgt
+all digits this line: [4, 6, 1, 4]
+added digit: 44
+current line is: hntcjmppp9fmntwokx2
+all digits this line: [9, 2, 2]
+added digit: 92
+current line is: 24mkgr6mx9n4
+all digits this line: [2, 4, 6, 9, 4]
+added digit: 24
+current line is: cksfkrdmdcmnbmkgk3two4
+all digits this line: [3, 2, 4]
+added digit: 34
+current line is: twosixthreefivelq3nine
+all digits this line: [2, 6, 3, 5, 3, 9]
+added digit: 29
+current line is: njmrtr6fmldninevcbtxr42
+all digits this line: [6, 9, 4, 2]
+added digit: 62
+current line is: eightfrdrczdxrcrfxh6
+all digits this line: [8, 6]
+added digit: 86
+current line is: 8sevenonefmfqhtx8lk
+all digits this line: [8, 7, 1, 8]
+added digit: 88
+current line is: lnoneight8twodg
+all digits this line: [1, 8, 8, 2]
+added digit: 12
+current line is: tszrcb7tvvhfive4
+all digits this line: [7, 5, 4]
+added digit: 74
+current line is: nknphprtv67fivehqlfournine2jk
+all digits this line: [6, 7, 5, 4, 9, 2]
+added digit: 62
+current line is: 9eightszgdhftggrktkzbsmnhtwonekh
+all digits this line: [9, 8, 2, 1]
+added digit: 91
+current line is: 1onefzkgf2two417
+all digits this line: [1, 1, 2, 2, 4, 1, 7]
+added digit: 17
+current line is: 77fivepsmmpp
+all digits this line: [7, 7, 5]
+added digit: 75
+current line is: bnine7vmttgmdskc
+all digits this line: [9, 7]
+added digit: 97
+current line is: 6tnsixclbvkhmsp
+all digits this line: [6, 6]
+added digit: 66
+current line is: ggreightwo1mnsbzmxsdcdrhhg5one
+all digits this line: [8, 2, 1, 5, 1]
+added digit: 81
+current line is: ninetwo6qtbklgb2
+all digits this line: [9, 2, 6, 2]
+added digit: 92
+current line is: four8fmfxmr
+all digits this line: [4, 8]
+added digit: 48
+current line is: threetxfrsevenvfdgrtsixtwofsq7
+all digits this line: [3, 7, 6, 2, 7]
+added digit: 37
+current line is: hqxlseven53
+all digits this line: [7, 5, 3]
+added digit: 73
+current line is: vxqq24eight6
+all digits this line: [2, 4, 8, 6]
+added digit: 26
+current line is: 7psxpgxmkpzkzeight3
+all digits this line: [7, 8, 3]
+added digit: 73
+current line is: 9four7
+all digits this line: [9, 4, 7]
+added digit: 97
+current line is: stwoone4eightwoj
+all digits this line: [2, 1, 4, 8, 2]
+added digit: 22
+current line is: one38
+all digits this line: [1, 3, 8]
+added digit: 18
+current line is: 9cjlrgrgpfjeighteightdcpjhzbjqcdthree
+all digits this line: [9, 8, 8, 3]
+added digit: 93
+current line is: rqfone2
+all digits this line: [1, 2]
+added digit: 12
+current line is: dvkxhvkgxcfivescjcnqqnnine2tthreecptkgxmzjsbzdrhk
+all digits this line: [5, 9, 2, 3]
+added digit: 53
+current line is: 5lhprmg8two7two3
+all digits this line: [5, 8, 2, 7, 2, 3]
+added digit: 53
+current line is: 5lvtg5sevennine2zrrmghf4seven
+all digits this line: [5, 5, 7, 9, 2, 4, 7]
+added digit: 57
+current line is: fourfive97sevensevensixcsffnlcbtjk
+all digits this line: [4, 5, 9, 7, 7, 7, 6]
+added digit: 46
+current line is: onesixoneninesixnbkf5xpsgsmpvdsdsqdvpjjzp
+all digits this line: [1, 6, 1, 9, 6, 5]
+added digit: 15
+current line is: nineb321mgkpqjqjqh
+all digits this line: [9, 3, 2, 1]
+added digit: 91
+current line is: seven2cstttkvkmpssflkxjmbnvthreefour
+all digits this line: [7, 2, 3, 4]
+added digit: 74
+current line is: six1bmcjbhdgqm6kgzsxbgdqnjqf3four6
+all digits this line: [6, 1, 6, 3, 4, 6]
+added digit: 66
+current line is: zchkfjxsllkncz175
+all digits this line: [1, 7, 5]
+added digit: 15
+current line is: vsveightwo8
+all digits this line: [8, 2, 8]
+added digit: 88
+current line is: fourbtrnfdp2four5
+all digits this line: [4, 2, 4, 5]
+added digit: 45
+current line is: 13dtf8769
+all digits this line: [1, 3, 8, 7, 6, 9]
+added digit: 19
+current line is: 6qfvvdqdrtstwothree4seven8vszpseven
+all digits this line: [6, 2, 3, 4, 7, 8, 7]
+added digit: 67
+current line is: 7rgzpxfbczk1fivetwo4two9nine
+all digits this line: [7, 1, 5, 2, 4, 2, 9, 9]
+added digit: 79
+current line is: 3sksmfxn
+all digits this line: [3]
+added digit: 33
+current line is: 16ninetwonqqmptq
+all digits this line: [1, 6, 9, 2]
+added digit: 12
+current line is: 9five4fckzssxsvpzbvlktjzcninethree
+all digits this line: [9, 5, 4, 9, 3]
+added digit: 93
+current line is: 3threel889bvbcgvl
+all digits this line: [3, 3, 8, 8, 9]
+added digit: 39
+current line is: threetzzjntxlsd2klrjfnbg87
+all digits this line: [3, 2, 8, 7]
+added digit: 37
+current line is: 3two3qrrdbkbk
+all digits this line: [3, 2, 3]
+added digit: 33
+current line is: 29oneightt
+all digits this line: [2, 9, 1, 8]
+added digit: 28
+current line is: 7mkpfchstjt7mshqht4fivesix
+all digits this line: [7, 7, 4, 5, 6]
+added digit: 76
+current line is: tvmqndvsix875nine8
+all digits this line: [6, 8, 7, 5, 9, 8]
+added digit: 68
+current line is: vg7477ninecpnrvnine7
+all digits this line: [7, 4, 7, 7, 9, 9, 7]
+added digit: 77
+current line is: seveneightmknlqjlstx4zjjrpbhjhnnc8
+all digits this line: [7, 8, 4, 8]
+added digit: 78
+current line is: 8qklthreetwo7tlmrfzvtwo7zvccc
+all digits this line: [8, 3, 2, 7, 2, 7]
+added digit: 87
+current line is: 6one1dpstqpmfbhst
+all digits this line: [6, 1, 1]
+added digit: 61
+current line is: sixfourfourseven6rzdkfour
+all digits this line: [6, 4, 4, 7, 6, 4]
+added digit: 64
+current line is: 6eighttbltmntb8
+all digits this line: [6, 8, 8]
+added digit: 68
+current line is: seven72cqslvzpgj
+all digits this line: [7, 7, 2]
+added digit: 72
+current line is: jpvrsgfhtwo5nfc1cgxdrdrbfnseven
+all digits this line: [2, 5, 1, 7]
+added digit: 27
+current line is: four1ninezlhqxtsgfzsevenhspvmxrtztzgtmseven5
+all digits this line: [4, 1, 9, 7, 7, 5]
+added digit: 45
+current line is: foursixzjvgjgsevensvkd5
+all digits this line: [4, 6, 7, 5]
+added digit: 45
+current line is: seven121fivefgxhdfive
+all digits this line: [7, 1, 2, 1, 5, 5]
+added digit: 75
+current line is: twoh8
+all digits this line: [2, 8]
+added digit: 28
+current line is: ghhtttxqgr95
+all digits this line: [9, 5]
+added digit: 95
+current line is: zkpklcjbjlr2
+all digits this line: [2]
+added digit: 22
+current line is: nine2mtrdcbrbntrdqninevbkbfg35lnpx
+all digits this line: [9, 2, 9, 3, 5]
+added digit: 95
+current line is: nineninesix68pcvsdnns
+all digits this line: [9, 9, 6, 6, 8]
+added digit: 98
+current line is: rf16one7
+all digits this line: [1, 6, 1, 7]
+added digit: 17
+current line is: seven276
+all digits this line: [7, 2, 7, 6]
+added digit: 76
+current line is: sixseven1
+all digits this line: [6, 7, 1]
+added digit: 61
+current line is: qjxseven9six
+all digits this line: [7, 9, 6]
+added digit: 76
+current line is: 7c9xvhgmpf41
+all digits this line: [7, 9, 4, 1]
+added digit: 71
+current line is: dlzpvdpxseven9nine
+all digits this line: [7, 9, 9]
+added digit: 79
+current line is: mlmlqrpn4twofivesbmhdbcsixtwo
+all digits this line: [4, 2, 5, 6, 2]
+added digit: 42
+current line is: ld74txfzksr5qconenine
+all digits this line: [7, 4, 5, 1, 9]
+added digit: 79
+current line is: six7djcdrtk7chktrh88
+all digits this line: [6, 7, 7, 8, 8]
+added digit: 68
+current line is: 2seven7jtrbhznt
+all digits this line: [2, 7, 7]
+added digit: 27
+current line is: 1eighthnhchsevenfive
+all digits this line: [1, 8, 7, 5]
+added digit: 15
+current line is: qdhscpeight8
+all digits this line: [8, 8]
+added digit: 88
+current line is: 12gnxzzm
+all digits this line: [1, 2]
+added digit: 12
+current line is: k7fourmhcfkggt8919np
+all digits this line: [7, 4, 8, 9, 1, 9]
+added digit: 79
+current line is: 8zljspvnmlx6four
+all digits this line: [8, 6, 4]
+added digit: 84
+current line is: 36twofivethreeptbdrfqzbz7qbjm
+all digits this line: [3, 6, 2, 5, 3, 7]
+added digit: 37
+current line is: bxkbjbzgone3ldhlnhxfcf7btkktspxrtqkxqfdmlqgqvgclb
+all digits this line: [1, 3, 7]
+added digit: 17
+current line is: sevenfourmdrxseven2z2fiveone
+all digits this line: [7, 4, 7, 2, 2, 5, 1]
+added digit: 71
+current line is: 8bbprzqrqn
+all digits this line: [8]
+added digit: 88
+current line is: twofivethree95mpqclhfkzlsix
+all digits this line: [2, 5, 3, 9, 5, 6]
+added digit: 26
+current line is: gpfjflrkc96tmsix6dxjnfive
+all digits this line: [9, 6, 6, 6, 5]
+added digit: 95
+current line is: qzeight6
+all digits this line: [8, 6]
+added digit: 86
+current line is: five5zlthgqjntwotqmnnsd
+all digits this line: [5, 5, 2]
+added digit: 52
+current line is: eight6nbpvfour4kzkvbzrxcmkh
+all digits this line: [8, 6, 4, 4]
+added digit: 84
+current line is: fdkrxdckqbpsklz64fourones8
+all digits this line: [6, 4, 4, 1, 8]
+added digit: 68
+current line is: 5qpldkhltl
+all digits this line: [5]
+added digit: 55
+current line is: 27xldkbqbnmrrbqkhmksvk
+all digits this line: [2, 7]
+added digit: 27
+current line is: pjoneightknpcgkkv7cbknrhfdmtdm8
+all digits this line: [1, 8, 7, 8]
+added digit: 18
+current line is: 432xsixvvktflzxone
+all digits this line: [4, 3, 2, 6, 1]
+added digit: 41
+current line is: 35fouronemzzszfqppllgchsjjnine
+all digits this line: [3, 5, 4, 1, 9]
+added digit: 39
+current line is: qgcnzcbvsxbtn6lthreenineone
+all digits this line: [6, 3, 9, 1]
+added digit: 61
+current line is: two2fourkdgbfb
+all digits this line: [2, 2, 4]
+added digit: 24
+current line is: fzkmbtvnvj5bzfgvxv3nineknpqzznzmf
+all digits this line: [5, 3, 9]
+added digit: 59
+current line is: 9mkqtmlnpzt282dgkmvlsonefourthree
+all digits this line: [9, 2, 8, 2, 1, 4, 3]
+added digit: 93
+current line is: mcqhpkhonethreeninesevenfdsggqnlfcnrft3frqzkscft
+all digits this line: [1, 3, 9, 7, 3]
+added digit: 13
+current line is: 847
+all digits this line: [8, 4, 7]
+added digit: 87
+current line is: gsxvvr6tghfbxxghgv6lplf
+all digits this line: [6, 6]
+added digit: 66
+current line is: fqzgkxkbmkpbhpvpdprmlhsngc5
+all digits this line: [5]
+added digit: 55
+current line is: qeightwo2threecrjjtv9fourbthree
+all digits this line: [8, 2, 2, 3, 9, 4, 3]
+added digit: 83
+current line is: 2eightdcbgfdqzk
+all digits this line: [2, 8]
+added digit: 28
+current line is: fourtwothree5tdzpzfxkpjmlkzzrf
+all digits this line: [4, 2, 3, 5]
+added digit: 45
+current line is: seven633
+all digits this line: [7, 6, 3, 3]
+added digit: 73
+current line is: 8mldn
+all digits this line: [8]
+added digit: 88
+current line is: eightmg7dvjzbngkxmnxdctjtdffive97zpjrjqvp
+all digits this line: [8, 7, 5, 9, 7]
+added digit: 87
+current line is: sixfournineone38eighteight
+all digits this line: [6, 4, 9, 1, 3, 8, 8, 8]
+added digit: 68
+current line is: 8mngs412
+all digits this line: [8, 4, 1, 2]
+added digit: 82
+current line is: 3fivefourtwo7five
+all digits this line: [3, 5, 4, 2, 7, 5]
+added digit: 35
+current line is: 7sevenjfkcf7rvone8xjdvsc
+all digits this line: [7, 7, 7, 1, 8]
+added digit: 78
+current line is: tljcrzngfdsqctfour6hsnljsxrqdzd
+all digits this line: [4, 6]
+added digit: 46
+current line is: csix7hnkhds4four67
+all digits this line: [6, 7, 4, 4, 6, 7]
+added digit: 67
+current line is: 3cxrlqcnseven4twox3
+all digits this line: [3, 7, 4, 2, 3]
+added digit: 33
+current line is: rtwonerxcnpqdnzksvzmmndcjlzq2nine6ntfzjdqnrjeight
+all digits this line: [2, 1, 2, 9, 6, 8]
+added digit: 28
+current line is: zbqgrvvvblggbghtfx98
+all digits this line: [9, 8]
+added digit: 98
+current line is: three2zcpspgtq77vqtgpcxkvq8
+all digits this line: [3, 2, 7, 7, 8]
+added digit: 38
+current line is: 94zksixnvbxrllxln
+all digits this line: [9, 4, 6]
+added digit: 96
+current line is: 1eightrctknxkmv9jtwoeight
+all digits this line: [1, 8, 9, 2, 8]
+added digit: 18
+current line is: 2onenine5eight58
+all digits this line: [2, 1, 9, 5, 8, 5, 8]
+added digit: 28
+current line is: four2five
+all digits this line: [4, 2, 5]
+added digit: 45
+current line is: 6fourfiveeight
+all digits this line: [6, 4, 5, 8]
+added digit: 68
+current line is: pbfourlzdl4
+all digits this line: [4, 4]
+added digit: 44
+current line is: 4onejrltvhxprhlzctrqzbz5fourseven6
+all digits this line: [4, 1, 5, 4, 7, 6]
+added digit: 46
+current line is: hlsdjlleightdcmdj8jdg
+all digits this line: [8, 8]
+added digit: 88
+current line is: eightbfkgvbxxm6
+all digits this line: [8, 6]
+added digit: 86
+current line is: sixseven9hmhchsmqhhtrdftcfivetz
+all digits this line: [6, 7, 9, 5]
+added digit: 65
+current line is: mq4five2fsdhzn
+all digits this line: [4, 5, 2]
+added digit: 42
+current line is: ceight3mncgnineeight8dkqrjjtmc
+all digits this line: [8, 3, 9, 8, 8]
+added digit: 88
+current line is: onefour7eightsix
+all digits this line: [1, 4, 7, 8, 6]
+added digit: 16
+current line is: seven4fqsjk38fhbmn9fgzzcc
+all digits this line: [7, 4, 3, 8, 9]
+added digit: 79
+current line is: 9cmb5ninenjsppthpnine5
+all digits this line: [9, 5, 9, 9, 5]
+added digit: 95
+current line is: qghtvpsqpxptoneljvstwo8lpqcbgtqvjmpq
+all digits this line: [1, 2, 8]
+added digit: 18
+current line is: onelq85dlqpx8
+all digits this line: [1, 8, 5, 8]
+added digit: 18
+current line is: 1threetzsxqtndvhqn
+all digits this line: [1, 3]
+added digit: 13
+current line is: lqdvkonebqjqj9
+all digits this line: [1, 9]
+added digit: 19
+current line is: 3six6
+all digits this line: [3, 6, 6]
+added digit: 36
+current line is: 9two9sixeight776
+all digits this line: [9, 2, 9, 6, 8, 7, 7, 6]
+added digit: 96
+current line is: scrrprfkblkplgqzzqb2
+all digits this line: [2]
+added digit: 22
+current line is: 18vcrhxb4b
+all digits this line: [1, 8, 4]
+added digit: 14
+current line is: three8nine
+all digits this line: [3, 8, 9]
+added digit: 39
+current line is: 1khkncj8fivefourthree2
+all digits this line: [1, 8, 5, 4, 3, 2]
+added digit: 12
+current line is: ninetwo8tbbsfmkqtt51five
+all digits this line: [9, 2, 8, 5, 1, 5]
+added digit: 95
+current line is: 66one88
+all digits this line: [6, 6, 1, 8, 8]
+added digit: 68
+current line is: ninempgbhpm6seven34
+all digits this line: [9, 6, 7, 3, 4]
+added digit: 94
+current line is: eightthreetwo4threetwo
+all digits this line: [8, 3, 2, 4, 3, 2]
+added digit: 82
+current line is: vvpqkdonesevendvfrgmhhlsix91threethree
+all digits this line: [1, 7, 6, 9, 1, 3, 3]
+added digit: 13
+current line is: vbskcncpjxtdhqlcone6kgqpz
+all digits this line: [1, 6]
+added digit: 16
+current line is: 54lmnnqsrm73
+all digits this line: [5, 4, 7, 3]
+added digit: 53
+current line is: 5mqnmvcbqnz82ninethree
+all digits this line: [5, 8, 2, 9, 3]
+added digit: 53
+current line is: 47teightthreehrhtdndrk
+all digits this line: [4, 7, 8, 3]
+added digit: 43
+current line is: fft2foursrdhxkzfourv
+all digits this line: [2, 4, 4]
+added digit: 24
+current line is: tbeight48759eight9twonenl
+all digits this line: [8, 4, 8, 7, 5, 9, 8, 9, 2, 1]
+added digit: 81
+current line is: 3sfkvkmvbbm9four9cbjzgllfl
+all digits this line: [3, 9, 4, 9]
+added digit: 39
+current line is: sixqhxeightone7tlsd
+all digits this line: [6, 8, 1, 7]
+added digit: 67
+current line is: 22zmllbhcptwo
+all digits this line: [2, 2, 2]
+added digit: 22
+current line is: dqxdjrkmnvkbsxc3ztbseven
+all digits this line: [3, 7]
+added digit: 37
+current line is: oneeight6dcphmnrfltfour
+all digits this line: [1, 8, 6, 4]
+added digit: 14
+current line is: mgxzcfsevenfour4six
+all digits this line: [7, 4, 4, 6]
+added digit: 76
+current line is: sixb8six34gqjtlcq
+all digits this line: [6, 8, 6, 3, 4]
+added digit: 64
+current line is: fiveseventhreexfblvxgkplvbrgpfive1onesix
+all digits this line: [5, 7, 3, 5, 1, 1, 6]
+added digit: 56
+current line is: one3mgqphj5
+all digits this line: [1, 3, 5]
+added digit: 15
+current line is: 7fpzxmmxgnb5
+all digits this line: [7, 5]
+added digit: 75
+current line is: jbshclzone3oneseven117dkzzdxdd
+all digits this line: [1, 3, 1, 7, 1, 1, 7]
+added digit: 17
+current line is: 56five1
+all digits this line: [5, 6, 5, 1]
+added digit: 51
+current line is: jeightwo1ninemxtvgl717pbv1mqs
+all digits this line: [8, 2, 1, 9, 7, 1, 7, 1]
+added digit: 81
+current line is: 3six36
+all digits this line: [3, 6, 3, 6]
+added digit: 36
+current line is: 35mlzjsgxxtg
+all digits this line: [3, 5]
+added digit: 35
+current line is: hmmjgonehjqdcqkh1gskjrmfour7
+all digits this line: [1, 1, 4, 7]
+added digit: 17
+current line is: eightfiverqbb3
+all digits this line: [8, 5, 3]
+added digit: 83
+current line is: sixtdkfbglhbjbvthreejsd8tglkrsfktcjt
+all digits this line: [6, 3, 8]
+added digit: 68
+current line is: 1eight2mgxrgbbb3
+all digits this line: [1, 8, 2, 3]
+added digit: 13
+current line is: zzqxvtthreepf3eighttwoonefive
+all digits this line: [3, 3, 8, 2, 1, 5]
+added digit: 35
+current line is: vjnxhl4threetwokj
+all digits this line: [4, 3, 2]
+added digit: 42
+current line is: oneqddgbbqtzsonenxkeightvx7
+all digits this line: [1, 1, 8, 7]
+added digit: 17
+current line is: nine24
+all digits this line: [9, 2, 4]
+added digit: 94
+current line is: ftwone2
+all digits this line: [2, 1, 2]
+added digit: 22
+current line is: 53twonehx
+all digits this line: [5, 3, 2, 1]
+added digit: 51
+current line is: two7three4fourhbgninenkvxjjsz
+all digits this line: [2, 7, 3, 4, 4, 9]
+added digit: 29
+current line is: 7five62ninefour
+all digits this line: [7, 5, 6, 2, 9, 4]
+added digit: 74
+current line is: 53nine7lqthree4
+all digits this line: [5, 3, 9, 7, 3, 4]
+added digit: 54
+current line is: 1six1jn
+all digits this line: [1, 6, 1]
+added digit: 11
+current line is: five5drcjvbgdxzonefourfjdkfive
+all digits this line: [5, 5, 1, 4, 5]
+added digit: 55
+current line is: 6onecfninesqfdtxmdhmfvlhbsjv9eight
+all digits this line: [6, 1, 9, 9, 8]
+added digit: 68
+current line is: 5dqmfmqbdfdjvpl
+all digits this line: [5]
+added digit: 55
+current line is: qxkqfjshdone2zrmdsts
+all digits this line: [1, 2]
+added digit: 12
+current line is: 1qrvnf8zvfour
+all digits this line: [1, 8, 4]
+added digit: 14
+current line is: dht2
+all digits this line: [2]
+added digit: 22
+current line is: 4twoqdrshn87vxldzvnkn1five
+all digits this line: [4, 2, 8, 7, 1, 5]
+added digit: 45
+current line is: 4nineh
+all digits this line: [4, 9]
+added digit: 49
+current line is: zctqdcfbseven6three58lzscrpsbb2
+all digits this line: [7, 6, 3, 5, 8, 2]
+added digit: 72
+current line is: fzmndhssmm3jdzlfourshjkmjkv53gvssnvzsz
+all digits this line: [3, 4, 5, 3]
+added digit: 33
+current line is: five2qkxtfkj3sixshpnzdcjhlcmksnv
+all digits this line: [5, 2, 3, 6]
+added digit: 56
+current line is: bskcmljnq69
+all digits this line: [6, 9]
+added digit: 69
+current line is: psxkxqztb3xsctsk6qvldjdzzqmgqcxncx2btqxh
+all digits this line: [3, 6, 2]
+added digit: 32
+current line is: onetwosixttghndtzx8
+all digits this line: [1, 2, 6, 8]
+added digit: 18
+current line is: 8twocmnfmslsheighthtxsgjddm
+all digits this line: [8, 2, 8]
+added digit: 88
+current line is: fnvkqndfqmhgscnvq31kvvftxbzhtgzxqtngvqseven
+all digits this line: [3, 1, 7]
+added digit: 37
+current line is: 7sevenkhhvtvsbrvcvm8zksvgcfrkgfourtzjvpqstckmmlzz
+all digits this line: [7, 7, 8, 4]
+added digit: 74
+current line is: 7hkfiveeightpjhone
+all digits this line: [7, 5, 8, 1]
+added digit: 71
+current line is: 8zptwoonemrninefive3spxrlhr
+all digits this line: [8, 2, 1, 9, 5, 3]
+added digit: 83
+current line is: 3qvjknqcnngpkninecgsbp3sevenfnpvrcltj
+all digits this line: [3, 9, 3, 7]
+added digit: 37
+current line is: qztwo8678
+all digits this line: [2, 8, 6, 7, 8]
+added digit: 28
+current line is: bxkj959dntcpzv
+all digits this line: [9, 5, 9]
+added digit: 99
+current line is: 4one4
+all digits this line: [4, 1, 4]
+added digit: 44
+current line is: lstwone347nine
+all digits this line: [2, 1, 3, 4, 7, 9]
+added digit: 29
+current line is: ff79krfbjttqp4seven1
+all digits this line: [7, 9, 4, 7, 1]
+added digit: 71
+current line is: gjtlbgxdqt7eightsix
+all digits this line: [7, 8, 6]
+added digit: 76
+current line is: 8fivefour82threetwo
+all digits this line: [8, 5, 4, 8, 2, 3, 2]
+added digit: 82
+current line is: 1zjxthree4
+all digits this line: [1, 3, 4]
+added digit: 14
+current line is: szgx6fivefour12
+all digits this line: [6, 5, 4, 1, 2]
+added digit: 62
+current line is: 557dspnfzhmlh
+all digits this line: [5, 5, 7]
+added digit: 57
+current line is: 5hnfour
+all digits this line: [5, 4]
+added digit: 54
+current line is: 847zzkrtjlb
+all digits this line: [8, 4, 7]
+added digit: 87
+current line is: 82six
+all digits this line: [8, 2, 6]
+added digit: 86
+current line is: xlnhrcksv3fourzl
+all digits this line: [3, 4]
+added digit: 34
+current line is: 2ninetwo8ninelhnsbseven9
+all digits this line: [2, 9, 2, 8, 9, 7, 9]
+added digit: 29
+current line is: ccseightwo8fiveonetwo5onegkhlg
+all digits this line: [8, 2, 8, 5, 1, 2, 5, 1]
+added digit: 81
+current line is: eightp2onegrmfsnine5one
+all digits this line: [8, 2, 1, 9, 5, 1]
+added digit: 81
+current line is: 4five9xnmlldfive
+all digits this line: [4, 5, 9, 5]
+added digit: 45
+current line is: five636
+all digits this line: [5, 6, 3, 6]
+added digit: 56
+current line is: fivesix29
+all digits this line: [5, 6, 2, 9]
+added digit: 59
+current line is: 34dsbtmlhgggzkqxs7
+all digits this line: [3, 4, 7]
+added digit: 37
+current line is: twothreesmgjch93mcdndsn
+all digits this line: [2, 3, 9, 3]
+added digit: 23
+current line is: cmnmtzjnmtggseven1tjsshnktffive72
+all digits this line: [7, 1, 5, 7, 2]
+added digit: 72
+current line is: 7xcbpsix6m
+all digits this line: [7, 6, 6]
+added digit: 76
+current line is: 7fourthree
+all digits this line: [7, 4, 3]
+added digit: 73
+current line is: 7cxnzthree
+all digits this line: [7, 3]
+added digit: 73
+current line is: 5eightthree3lpvlfk
+all digits this line: [5, 8, 3, 3]
+added digit: 53
+current line is: 4rdnp
+all digits this line: [4]
+added digit: 44
+current line is: one6gmpjfouronettbbjdqsxn
+all digits this line: [1, 6, 4, 1]
+added digit: 11
+current line is: 6xtcv
+all digits this line: [6]
+added digit: 66
+current line is: dpspd1cb2onegxsgdtcsix
+all digits this line: [1, 2, 1, 6]
+added digit: 16
+current line is: 1eightpseven
+all digits this line: [1, 8, 7]
+added digit: 17
+current line is: ntczqmrclm2
+all digits this line: [2]
+added digit: 22
+current line is: six7nineeight1
+all digits this line: [6, 7, 9, 8, 1]
+added digit: 61
+current line is: qrndlfour9bhbmlgj6
+all digits this line: [4, 9, 6]
+added digit: 46
+current line is: 52vhnxvngjjkzt
+all digits this line: [5, 2]
+added digit: 52
+current line is: nine8six
+all digits this line: [9, 8, 6]
+added digit: 96
+current line is: 3seventhreesixfpmpbjninesix
+all digits this line: [3, 7, 3, 6, 9, 6]
+added digit: 36
+current line is: seightwoseven4sevenppdnk7
+all digits this line: [8, 2, 7, 4, 7, 7]
+added digit: 87
+current line is: lnxeightbhxfmdrxcbjzx9sixnine
+all digits this line: [8, 9, 6, 9]
+added digit: 89
+current line is: 8ptdmjrd21zrnt1one
+all digits this line: [8, 2, 1, 1, 1]
+added digit: 81
+current line is: one1dmbfournine2
+all digits this line: [1, 1, 4, 9, 2]
+added digit: 12
+current line is: 25five748
+all digits this line: [2, 5, 5, 7, 4, 8]
+added digit: 28
+current line is: 266eightwom
+all digits this line: [2, 6, 6, 8, 2]
+added digit: 22
+current line is: zxfxjn32threelxmqnlcvnknzbn3
+all digits this line: [3, 2, 3, 3]
+added digit: 33
+current line is: lqmjm2onezseven
+all digits this line: [2, 1, 7]
+added digit: 27
+current line is: sphlhbbz14sixtwosix
+all digits this line: [1, 4, 6, 2, 6]
+added digit: 16
+current line is: sixr9llqxb4
+all digits this line: [6, 9, 4]
+added digit: 64
+current line is: tnnhlmsix314mqvdlxfour4
+all digits this line: [6, 3, 1, 4, 4, 4]
+added digit: 64
+current line is: threenjxgtthreethreeeight14one
+all digits this line: [3, 3, 3, 8, 1, 4, 1]
+added digit: 31
+current line is: 1fivetwo
+all digits this line: [1, 5, 2]
+added digit: 12
+current line is: hhhtkpvhvg8
+all digits this line: [8]
+added digit: 88
+current line is: 31cslxxzgbktjtwotrzs1one
+all digits this line: [3, 1, 2, 1, 1]
+added digit: 31
+current line is: twoseven9
+all digits this line: [2, 7, 9]
+added digit: 29
+current line is: 4fivenine9332
+all digits this line: [4, 5, 9, 9, 3, 3, 2]
+added digit: 42
+current line is: six35nineeightwok
+all digits this line: [6, 3, 5, 9, 8, 2]
+added digit: 62
+current line is: nine9fpxgqjrftwovhldfflqthree
+all digits this line: [9, 9, 2, 3]
+added digit: 93
+current line is: 434four5threetpcs
+all digits this line: [4, 3, 4, 4, 5, 3]
+added digit: 43
+current line is: ql52kzzgnsgll
+all digits this line: [5, 2]
+added digit: 52
+current line is: onex5145
+all digits this line: [1, 5, 1, 4, 5]
+added digit: 15
+current line is: gsppnkx1
+all digits this line: [1]
+added digit: 11
+current line is: 22six
+all digits this line: [2, 2, 6]
+added digit: 26
+current line is: zjbbqnbhsdfourmk19sixone
+all digits this line: [4, 1, 9, 6, 1]
+added digit: 41
+current line is: six3onesevensixvnsixone7
+all digits this line: [6, 3, 1, 7, 6, 6, 1, 7]
+added digit: 67
+current line is: seventhreefive8
+all digits this line: [7, 3, 5, 8]
+added digit: 78
+current line is: four62four7eightseventwo
+all digits this line: [4, 6, 2, 4, 7, 8, 7, 2]
+added digit: 42
+current line is: 2three5jtzmtxhqxhsixxlkmptshb
+all digits this line: [2, 3, 5, 6]
+added digit: 26
+current line is: five3lklnccst1dstgvnprktgcnseven
+all digits this line: [5, 3, 1, 7]
+added digit: 57
+current line is: sevenfour52
+all digits this line: [7, 4, 5, 2]
+added digit: 72
+current line is: hfxkkbcfpcgzfqsv1three68three
+all digits this line: [1, 3, 6, 8, 3]
+added digit: 13
+current line is: lnqrcdpglf2ksqddhp
+all digits this line: [2]
+added digit: 22
+current line is: 13onenbmqvpqsbbf
+all digits this line: [1, 3, 1]
+added digit: 11
+current line is: 1bfive
+all digits this line: [1, 5]
+added digit: 15
+current line is: 1dmnlscgvfdqrf
+all digits this line: [1]
+added digit: 11
+current line is: bvtwonettkzzxpb4
+all digits this line: [2, 1, 4]
+added digit: 24
+current line is: 5two2t7
+all digits this line: [5, 2, 2, 7]
+added digit: 57
+current line is: t7djkh
+all digits this line: [7]
+added digit: 77
+current line is: 63t86nlhfgqgnrghqone1
+all digits this line: [6, 3, 8, 6, 1, 1]
+added digit: 61
+current line is: one89eightlmztkcjjnonefive
+all digits this line: [1, 8, 9, 8, 1, 5]
+added digit: 15
+current line is: 7twosjmcrlcfqr29lfkrjz
+all digits this line: [7, 2, 2, 9]
+added digit: 79
+current line is: 1nine5four
+all digits this line: [1, 9, 5, 4]
+added digit: 14
+current line is: xxjbmsvfxb8
+all digits this line: [8]
+added digit: 88
+current line is: nxvrvcqkbseven99rbzbdp641
+all digits this line: [7, 9, 9, 6, 4, 1]
+added digit: 71
+current line is: 56fdpx
+all digits this line: [5, 6]
+added digit: 56
+current line is: skszhkqdtonesixth5eight
+all digits this line: [1, 6, 5, 8]
+added digit: 18
+current line is: ninetwo8jqbtwokbhzvv4fiveoneightxb
+all digits this line: [9, 2, 8, 2, 4, 5, 1, 8]
+added digit: 98
+current line is: 1threemfcblxjljdtone
+all digits this line: [1, 3, 1]
+added digit: 11
+current line is: fsfgncxvcmszn2pzspkkgqvfxlnbzgjr1
+all digits this line: [2, 1]
+added digit: 21
+current line is: rrxhnslrkeightgcsbcgdbkplzxbmmlxsn5sfp66
+all digits this line: [8, 5, 6, 6]
+added digit: 86
+current line is: foureight3
+all digits this line: [4, 8, 3]
+added digit: 43
+current line is: 5rplrmrjtjcfnct9sixfourzptmffrpthree
+all digits this line: [5, 9, 6, 4, 3]
+added digit: 53
+current line is: mld6ztzninesixfour4
+all digits this line: [6, 9, 6, 4, 4]
+added digit: 64
+current line is: twohbbxmthljpkqthtcgtt8
+all digits this line: [2, 8]
+added digit: 28
+current line is: ltvgmqgsix89
+all digits this line: [6, 8, 9]
+added digit: 69
+current line is: 6khclqhcvdz24eightseven
+all digits this line: [6, 2, 4, 8, 7]
+added digit: 67
+current line is: 6prb
+all digits this line: [6]
+added digit: 66
+current line is: nhsjqtnk6bqzhzvldlcgsmkq1twobfqzm
+all digits this line: [6, 1, 2]
+added digit: 62
+current line is: tfivehmdtxqlsevenzxt1ckjbnttgqctwo4
+all digits this line: [5, 7, 1, 2, 4]
+added digit: 54
+current line is: ghnjjmtlvfive9znltjfskfnl3vdcjkvqcdplvdmckmfgxq
+all digits this line: [5, 9, 3]
+added digit: 53
+current line is: ztvvbbjx3
+all digits this line: [3]
+added digit: 33
+current line is: 6jhsrszlpsh
+all digits this line: [6]
+added digit: 66
+current line is: 4fhtrctvrgmfhdjqvqp8sixnnftggrzlgs2
+all digits this line: [4, 8, 6, 2]
+added digit: 42
+current line is: bvlqxnjbbjgtfpslpspvpl7jsjlrdfiveeight88
+all digits this line: [7, 5, 8, 8, 8]
+added digit: 78
+current line is: fsvcxvlc74sevenltx37sevenlbq
+all digits this line: [7, 4, 7, 3, 7, 7]
+added digit: 77
+current line is: fourfivetgkqz5cgj4
+all digits this line: [4, 5, 5, 4]
+added digit: 44
+current line is: cnrjtfvht74nptvh
+all digits this line: [7, 4]
+added digit: 74
+current line is: oneldnoneone745dhvqnvmlfj
+all digits this line: [1, 1, 1, 7, 4, 5]
+added digit: 15
+current line is: 2trhmdcpnreight
+all digits this line: [2, 8]
+added digit: 28
+current line is: dshghlkjzh1kv
+all digits this line: [1]
+added digit: 11
+current line is: threexzkssrxlzzpxsjzbbtthree7
+all digits this line: [3, 3, 7]
+added digit: 37
+current line is: eightdsqrdllssxv7sevendttwo3three
+all digits this line: [8, 7, 7, 2, 3, 3]
+added digit: 83
+current line is: stz6five9four
+all digits this line: [6, 5, 9, 4]
+added digit: 64
+current line is: jfbfgvfgmvlhjv94
+all digits this line: [9, 4]
+added digit: 94
+current line is: rcncncfcqsevenjdrtctbbsznpct48cbbxseven
+all digits this line: [7, 4, 8, 7]
+added digit: 77
+current line is: ninevjxzk2two
+all digits this line: [9, 2, 2]
+added digit: 92
+current line is: 1qgdcpslvqhjzbgtsbnzcd
+all digits this line: [1]
+added digit: 11
+current line is: kmlzbndds8fivegfdgpfivetwo63
+all digits this line: [8, 5, 5, 2, 6, 3]
+added digit: 83
+current line is: 66mkeightnine1rvfnine4
+all digits this line: [6, 6, 8, 9, 1, 9, 4]
+added digit: 64
+current line is: nine82
+all digits this line: [9, 8, 2]
+added digit: 92
+current line is: 58ntpkdssixnntjlgfkxq
+all digits this line: [5, 8, 6]
+added digit: 56
+current line is: 2jxqttctsxthreepnxsfive
+all digits this line: [2, 3, 5]
+added digit: 25
+current line is: fivekvfkqpc28foursixptgbpfm6
+all digits this line: [5, 2, 8, 4, 6, 6]
+added digit: 56
+current line is: 6twofourslqbzlcsmf
+all digits this line: [6, 2, 4]
+added digit: 64
+current line is: five4vmdl
+all digits this line: [5, 4]
+added digit: 54
+current line is: thx5six
+all digits this line: [5, 6]
+added digit: 56
+current line is: 5hfnsqhvcfgckcseven3jgdtkkv
+all digits this line: [5, 7, 3]
+added digit: 53
+current line is: seven6eight65five99
+all digits this line: [7, 6, 8, 6, 5, 5, 9, 9]
+added digit: 79
+current line is: hplrgdqrjtonesevenseven4z65eight
+all digits this line: [1, 7, 7, 4, 6, 5, 8]
+added digit: 18
+current line is: khkts8hcsfvhvqjv9eightnine48
+all digits this line: [8, 9, 8, 9, 4, 8]
+added digit: 88
+current line is: pqxztthreeninelxhcxkjclk2
+all digits this line: [3, 9, 2]
+added digit: 32
+current line is: sixrmfpj6nine4zx
+all digits this line: [6, 6, 9, 4]
+added digit: 64
+current line is: 9xtvxkxpjv9
+all digits this line: [9, 9]
+added digit: 99
+current line is: cmtggbrckmmzffncttxsevenhphmhfgjsr85
+all digits this line: [7, 8, 5]
+added digit: 75
+current line is: 83s4
+all digits this line: [8, 3, 4]
+added digit: 84
+current line is: 26fivefivethreemstzpncmhfm
+all digits this line: [2, 6, 5, 5, 3]
+added digit: 23
+current line is: 87eightfourgvmmfbknineone
+all digits this line: [8, 7, 8, 4, 9, 1]
+added digit: 81
+current line is: bdxg2zszhcgtvtseventhmbvfive
+all digits this line: [2, 7, 5]
+added digit: 25
+current line is: zeight8
+all digits this line: [8, 8]
+added digit: 88
+current line is: eight78dcnq4jtz
+all digits this line: [8, 7, 8, 4]
+added digit: 84
+current line is: 67csrthree
+all digits this line: [6, 7, 3]
+added digit: 63
+current line is: 3vqxtwonerts
+all digits this line: [3, 2, 1]
+added digit: 31
+current line is: 1five3
+all digits this line: [1, 5, 3]
+added digit: 13
+current line is: sevensixfournineksxkz9bkbgcrjjjhnineeight
+all digits this line: [7, 6, 4, 9, 9, 9, 8]
+added digit: 78
+current line is: 8seven29
+all digits this line: [8, 7, 2, 9]
+added digit: 89
+current line is: 9394
+all digits this line: [9, 3, 9, 4]
+added digit: 94
+current line is: pkqxvl9vbjmqblrksjqcshpzpfrfouroneeightnine
+all digits this line: [9, 4, 1, 8, 9]
+added digit: 99
+current line is: heightwolgpplrbnhrgdkrk25crttkkzkbt
+all digits this line: [8, 2, 2, 5]
+added digit: 85
+current line is: 6659eighttwoone
+all digits this line: [6, 6, 5, 9, 8, 2, 1]
+added digit: 61
+current line is: 55lzqzng2dmtpq45
+all digits this line: [5, 5, 2, 4, 5]
+added digit: 55
+current line is: 512gpmqpsqfive9eight
+all digits this line: [5, 1, 2, 5, 9, 8]
+added digit: 58
+current line is: eightsnxz58zrbh8fiveeight
+all digits this line: [8, 5, 8, 8, 5, 8]
+added digit: 88
+current line is: six893ninerrxzj
+all digits this line: [6, 8, 9, 3, 9]
+added digit: 69
+current line is: twoflrzzcgninefqqlmmzzqgnjrcxcfour5ninetlcmc
+all digits this line: [2, 9, 4, 5, 9]
+added digit: 29
+current line is: tmfkbgcssdcmkthmx1seven
+all digits this line: [1, 7]
+added digit: 17
+current line is: 6three9fourmdpzj
+all digits this line: [6, 3, 9, 4]
+added digit: 64
+current line is: mgprpn68
+all digits this line: [6, 8]
+added digit: 68
+current line is: xssxrtpntlkppxp958rzd2nine8
+all digits this line: [9, 5, 8, 2, 9, 8]
+added digit: 98
+current line is: fx15twoeighttfjlcglnbptwo66
+all digits this line: [1, 5, 2, 8, 2, 6, 6]
+added digit: 16
+current line is: threeseven522
+all digits this line: [3, 7, 5, 2, 2]
+added digit: 32
+current line is: xrjpstjr2
+all digits this line: [2]
+added digit: 22
+current line is: 6eight1742oneighthhj
+all digits this line: [6, 8, 1, 7, 4, 2, 1, 8]
+added digit: 68
+current line is: 1ddfkgjrxfzrhnxtnvfqxdv4
+all digits this line: [1, 4]
+added digit: 14
+current line is: 8hlcxdpkrnrgfzmsschlhcbndkcvdszgqntl
+all digits this line: [8]
+added digit: 88
+current line is: five154sixfourqgffh
+all digits this line: [5, 1, 5, 4, 6, 4]
+added digit: 54
+current line is: 5rsvtzgrvq1slrlgqksone6lns
+all digits this line: [5, 1, 1, 6]
+added digit: 56
+current line is: 92sevenk3xfrvgddsthree4
+all digits this line: [9, 2, 7, 3, 3, 4]
+added digit: 94
+current line is: rctlcz67
+all digits this line: [6, 7]
+added digit: 67
+current line is: 2nmrbhnzpf7
+all digits this line: [2, 7]
+added digit: 27
+current line is: bjmssix1sevenfour4
+all digits this line: [6, 1, 7, 4, 4]
+added digit: 64
+current line is: 744ninefivefivejjcnpgrqxtrctwo
+all digits this line: [7, 4, 4, 9, 5, 5, 2]
+added digit: 72
+current line is: r4five4
+all digits this line: [4, 5, 4]
+added digit: 44
+current line is: 16two2
+all digits this line: [1, 6, 2, 2]
+added digit: 12
+current line is: threefn8
+all digits this line: [3, 8]
+added digit: 38
+current line is: 3gmsrqtjm
+all digits this line: [3]
+added digit: 33
+current line is: one8tmlnlqvgfone5fivefive
+all digits this line: [1, 8, 1, 5, 5, 5]
+added digit: 15
+current line is: 1spllmone9three1xsssk5
+all digits this line: [1, 1, 9, 3, 1, 5]
+added digit: 15
+current line is: 6rlqqblbrxh8
+all digits this line: [6, 8]
+added digit: 68
+current line is: 41qqccnsevengbbrpgcqggtlhtzqcfqzhtx
+all digits this line: [4, 1, 7]
+added digit: 47
+current line is: hzfivethreenine2
+all digits this line: [5, 3, 9, 2]
+added digit: 52
+current line is: sixeightvcm4lngvkdlpz6dstz
+all digits this line: [6, 8, 4, 6]
+added digit: 66
+current line is: twoeight34tv1
+all digits this line: [2, 8, 3, 4, 1]
+added digit: 21
+current line is: tgqc6fqsftwoninexncjnrtcgcbrxdmnine
+all digits this line: [6, 2, 9, 9]
+added digit: 69
+current line is: 8one27ninerjt3seven
+all digits this line: [8, 1, 2, 7, 9, 3, 7]
+added digit: 87
+current line is: 1sjvxlzszhhsix
+all digits this line: [1, 6]
+added digit: 16
+current line is: 2xxmpjsfbr
+all digits this line: [2]
+added digit: 22
+current line is: 7eight5eight5bzgdpkkpgrn
+all digits this line: [7, 8, 5, 8, 5]
+added digit: 75
+current line is: twozcrxdsix1lrxltrhvznine7twoone
+all digits this line: [2, 6, 1, 9, 7, 2, 1]
+added digit: 21
+current line is: 8qlfive8nlmthree39
+all digits this line: [8, 5, 8, 3, 3, 9]
+added digit: 89
+current line is: 4five5five7671
+all digits this line: [4, 5, 5, 5, 7, 6, 7, 1]
+added digit: 41
+current line is: 4fiveqtrngqtbpd74
+all digits this line: [4, 5, 7, 4]
+added digit: 44
+current line is: vbccfjhjndeight1h
+all digits this line: [8, 1]
+added digit: 81
+current line is: 8kfzchkdvfgvlhqzfgseven
+all digits this line: [8, 7]
+added digit: 87
+current line is: 6ninexrxsvlmmzrsevenjhzzggfcxqrvfjtnjctveight9
+all digits this line: [6, 9, 7, 8, 9]
+added digit: 69
+current line is: 6fourfourfourxgrgqklnpcsjbsqvhnkjfcjdhdf
+all digits this line: [6, 4, 4, 4]
+added digit: 64
+current line is: 65fpnfszb3
+all digits this line: [6, 5, 3]
+added digit: 63
+current line is: srnhthmpseven1four3rrpznf
+all digits this line: [7, 1, 4, 3]
+added digit: 73
+current line is: vgmqr9zttpdrzjfiveninesevendfive
+all digits this line: [9, 5, 9, 7, 5]
+added digit: 95
+current line is: fournthreesevenseven72seven
+all digits this line: [4, 3, 7, 7, 7, 2, 7]
+added digit: 47
+current line is: 9594
+all digits this line: [9, 5, 9, 4]
+added digit: 94
+current line is: twolhvpfzbfsfourrrcpzzshd66grxddrmkvthree
+all digits this line: [2, 4, 6, 6, 3]
+added digit: 23
+current line is: seven5twotwolpsqlbcqpthree
+all digits this line: [7, 5, 2, 2, 3]
+added digit: 73
+current line is: 29eightzjgsfmll
+all digits this line: [2, 9, 8]
+added digit: 28
+current line is: gtkrjrsevenfbjcpjlsmqsfceightseven9
+all digits this line: [7, 8, 7, 9]
+added digit: 79
+current line is: qkbntcjvfl6three9qhpcptvpkfour7b
+all digits this line: [6, 3, 9, 4, 7]
+added digit: 67
+current line is: gvkhmrljmhrpj956bzxhkljpvpxltctjvvpfjtsnb
+all digits this line: [9, 5, 6]
+added digit: 96
+current line is: rcqlnpcmng6l5vfkpddeightsevenfhmxzztndq
+all digits this line: [6, 5, 8, 7]
+added digit: 67
+current line is: sptdrlsfxpsxff4five
+all digits this line: [4, 5]
+added digit: 45
+current line is: lrzhhxdrkdtbdjbsfourthreemmjjnn1
+all digits this line: [4, 3, 1]
+added digit: 41
+current line is: 9sxthreethree
+all digits this line: [9, 3, 3]
+added digit: 93
+current line is: six9fourseven4
+all digits this line: [6, 9, 4, 7, 4]
+added digit: 64
+current line is: dpone9fshbbpcm8
+all digits this line: [1, 9, 8]
+added digit: 18
+current line is: twoczqzvqkcnine6eight
+all digits this line: [2, 9, 6, 8]
+added digit: 28
+current line is: qbtkgxp1fourdz
+all digits this line: [1, 4]
+added digit: 14
+current line is: dxrrsdbmtpnl6hfdtj
+all digits this line: [6]
+added digit: 66
+current line is: sixsvtwo8
+all digits this line: [6, 2, 8]
+added digit: 68
+current line is: 5fxdkhbgqm8fouronefive5
+all digits this line: [5, 8, 4, 1, 5, 5]
+added digit: 55
+current line is: jqj6lhtbjt
+all digits this line: [6]
+added digit: 66
+current line is: 6pdgrsdxghfkhptbjcrrjcsevenbksvmzvnninercz
+all digits this line: [6, 7, 9]
+added digit: 69
+current line is: 8rzqvh6ntlg2bfktcphztdkckjg7two
+all digits this line: [8, 6, 2, 7, 2]
+added digit: 82
+current line is: fivesixnine1
+all digits this line: [5, 6, 9, 1]
+added digit: 51
+current line is: 4beightsevenonetwothree8jx
+all digits this line: [4, 8, 7, 1, 2, 3, 8]
+added digit: 48
+current line is: sixfourmvpk6fourtgknrjmxfftnmngjnine9
+all digits this line: [6, 4, 6, 4, 9, 9]
+added digit: 69
+current line is: 68seventwosnqsj
+all digits this line: [6, 8, 7, 2]
+added digit: 62
+current line is: g853seven7
+all digits this line: [8, 5, 3, 7, 7]
+added digit: 87
+current line is: 7ninejqslxmkxpbkxksjcjlnttslpcmsprvgnrxg
+all digits this line: [7, 9]
+added digit: 79
+current line is: jmvqrhdcctwofivev6eightone
+all digits this line: [2, 5, 6, 8, 1]
+added digit: 21
+current line is: ninefiveseven9eighthbb7two
+all digits this line: [9, 5, 7, 9, 8, 7, 2]
+added digit: 92
+current line is: threethreethreerlgqzvsevenx3eight
+all digits this line: [3, 3, 3, 7, 3, 8]
+added digit: 38
+current line is: xbkvgdsrhknine3blt
+all digits this line: [9, 3]
+added digit: 93
+current line is: xzbcgjkkbk1two1zprpn3bcxxhlxjtx7eight
+all digits this line: [1, 2, 1, 3, 7, 8]
+added digit: 18
+current line is: 3tflfncljtwo9
+all digits this line: [3, 2, 9]
+added digit: 39
+current line is: four3seven8one6
+all digits this line: [4, 3, 7, 8, 1, 6]
+added digit: 46
+current line is: six7vqfive
+all digits this line: [6, 7, 5]
+added digit: 65
+current line is: ddhhgvrkzfhone8
+all digits this line: [1, 8]
+added digit: 18
+current line is: fqtbnbvdvbklnkmpr89twotwo4
+all digits this line: [8, 9, 2, 2, 4]
+added digit: 84
+current line is: 9two166eight4cfnsstwo
+all digits this line: [9, 2, 1, 6, 6, 8, 4, 2]
+added digit: 92
+current line is: twofive88
+all digits this line: [2, 5, 8, 8]
+added digit: 28
+current line is: nxpmbfiveeightqmtblmtzpjcnxnxjtwosixtwo9
+all digits this line: [5, 8, 2, 6, 2, 9]
+added digit: 59
+current line is: fourthreefivedone9jzhrbrzmdqkzmqzfklxq
+all digits this line: [4, 3, 5, 1, 9]
+added digit: 49
+current line is: qbgpfsvlx1eightjsevensixfour
+all digits this line: [1, 8, 7, 6, 4]
+added digit: 14
+current line is: 2sevenfqkeight2five
+all digits this line: [2, 7, 8, 2, 5]
+added digit: 25
+current line is: sqnsvsevenrbkhgkbhmmqjztzvn3sevennkcghqqcckp
+all digits this line: [7, 3, 7]
+added digit: 77
+current line is: eighthcrzxpjt1eightone
+all digits this line: [8, 1, 8, 1]
+added digit: 81
+current line is: sixone2
+all digits this line: [6, 1, 2]
+added digit: 62
+current line is: four56zqxr1lcmblzgdgqjnqb
+all digits this line: [4, 5, 6, 1]
+added digit: 41
+current line is: q6hdldzmjh6ninevjm9
+all digits this line: [6, 6, 9, 9]
+added digit: 69
+current line is: j82onek67
+all digits this line: [8, 2, 1, 6, 7]
+added digit: 87
+current line is: 5njnffiveshlbqpqhzt
+all digits this line: [5, 5]
+added digit: 55
+current line is: 97nineoneightcq
+all digits this line: [9, 7, 9, 1, 8]
+added digit: 98
+current line is: ffivetwo41vnzhfqmrd4
+all digits this line: [5, 2, 4, 1, 4]
+added digit: 54
+current line is: two2fiveone1nftfhvzkpltvn4three
+all digits this line: [2, 2, 5, 1, 1, 4, 3]
+added digit: 23
+current line is: twofivethree7jlsjxgjfbvnlxhb
+all digits this line: [2, 5, 3, 7]
+added digit: 27
+current line is: rmb4fourlmzgvfcsgn2five
+all digits this line: [4, 4, 2, 5]
+added digit: 45
+current line is: 6dthkxkcdbssixdlrb38
+all digits this line: [6, 6, 3, 8]
+added digit: 68
+current line is: qgbnpdpchmnnftqpeight9xlmlskqhc156drhpf
+all digits this line: [8, 9, 1, 5, 6]
+added digit: 86
+current line is: sevensixsevenjqckcmg6sixxtgvrvm2sgtvrjrq
+all digits this line: [7, 6, 7, 6, 6, 2]
+added digit: 72
+current line is: 4nnhmghrqrkcmfmqxtqxncljskfvmhfmgqfour
+all digits this line: [4, 4]
+added digit: 44
+current line is: dlpqjk2fivesix7
+all digits this line: [2, 5, 6, 7]
+added digit: 27
+current line is: onegtddk5vzgpndqp2five
+all digits this line: [1, 5, 2, 5]
+added digit: 15
+current line is: qsslgone4onelbnbckznrfnjmsgz
+all digits this line: [1, 4, 1]
+added digit: 11
+current line is: pvqdbhjgqrgbqkzgpdbmvninekhvfrmpchhxm2
+all digits this line: [9, 2]
+added digit: 92
+current line is: tpxvskgzgnnvmnfncvqxxtkmm75vfgmxr4zbpdmdseven
+all digits this line: [7, 5, 4, 7]
+added digit: 77
+current line is: ssnqndqxsevenxztmfq64
+all digits this line: [7, 6, 4]
+added digit: 74
+current line is: mcxmhtnbczdfnstjn31six
+all digits this line: [3, 1, 6]
+added digit: 36
+current line is: twosixfz5jvbxxlhdklbp1
+all digits this line: [2, 6, 5, 1]
+added digit: 21
+current line is: five4six952
+all digits this line: [5, 4, 6, 9, 5, 2]
+added digit: 52
+current line is: vmnhjm3rzgglnmzj318
+all digits this line: [3, 3, 1, 8]
+added digit: 38
+current line is: dcnprh12qnmmqnvhkrhtrnxs5
+all digits this line: [1, 2, 5]
+added digit: 15
+current line is: 5b
+all digits this line: [5]
+added digit: 55
+current line is: mkfgxmvsixeight5
+all digits this line: [6, 8, 5]
+added digit: 65
+current line is: crzdkbjthreeone287fourpgzqldn
+all digits this line: [3, 1, 2, 8, 7, 4]
+added digit: 34
+current line is: 2cgdd
+all digits this line: [2]
+added digit: 22
+current line is: seven8oneeightllqtfbdtmdnvlcsfh5
+all digits this line: [7, 8, 1, 8, 5]
+added digit: 75
+current line is: 4seven1zqponeeightlplm
+all digits this line: [4, 7, 1, 1, 8]
+added digit: 48
+current line is: c7sevendvmxlfpnr6
+all digits this line: [7, 7, 6]
+added digit: 76
+current line is: eightlkhjgqj6
+all digits this line: [8, 6]
+added digit: 86
+current line is: njvmgjdmx2
+all digits this line: [2]
+added digit: 22
+current line is: 9six7
+all digits this line: [9, 6, 7]
+added digit: 97
+current line is: 3cfbjptcp5one8four
+all digits this line: [3, 5, 1, 8, 4]
+added digit: 34
+current line is: eight6kxc8one
+all digits this line: [8, 6, 8, 1]
+added digit: 81
+current line is: 6sevenlpbdcgbhxsixfourseven7
+all digits this line: [6, 7, 6, 4, 7, 7]
+added digit: 67
+current line is: 4sixeightsix9hq
+all digits this line: [4, 6, 8, 6, 9]
+added digit: 49
+current line is: 6eightb
+all digits this line: [6, 8]
+added digit: 68
+current line is: 8eight86jkrdgmxdfourthree
+all digits this line: [8, 8, 8, 6, 4, 3]
+added digit: 83
+current line is: 4dxczptzbvjfive56eight
+all digits this line: [4, 5, 5, 6, 8]
+added digit: 48
+current line is: seven3threerpqhsqspsdpvxj2sevensndcxn
+all digits this line: [7, 3, 3, 2, 7]
+added digit: 77
+current line is: zqcbcseventwo4gh16jksxkphgf
+all digits this line: [7, 2, 4, 1, 6]
+added digit: 76
+current line is: 44tfour7br
+all digits this line: [4, 4, 4, 7]
+added digit: 47
+current line is: five266five93seven1
+all digits this line: [5, 2, 6, 6, 5, 9, 3, 7, 1]
+added digit: 51
+current line is: prsbtlbninendbpzv5xx5
+all digits this line: [9, 5, 5]
+added digit: 95
+current line is: 6three2nqgtrlkfxn
+all digits this line: [6, 3, 2]
+added digit: 62
+current line is: ninefourxkrsgshmdd78six7nine
+all digits this line: [9, 4, 7, 8, 6, 7, 9]
+added digit: 99
+current line is: gnkphdvhqk74fptcqgp
+all digits this line: [7, 4]
+added digit: 74
+current line is: cfdmp2
+all digits this line: [2]
+added digit: 22
+current line is: fzhhdclzncxmg26nineeight4
+all digits this line: [2, 6, 9, 8, 4]
+added digit: 24
+current line is: seventworlcqhfq2qrfiveqqgmmzdpntfm
+all digits this line: [7, 2, 2, 5]
+added digit: 75
+current line is: onedvsbvstdshtlzs6sixfive
+all digits this line: [1, 6, 6, 5]
+added digit: 15
+current line is: qjfbtdtcknthreeeightsix71
+all digits this line: [3, 8, 6, 7, 1]
+added digit: 31
+current line is: 2ninesixscdxtwo
+all digits this line: [2, 9, 6, 2]
+added digit: 22
+current line is: threerlpjxlzsr9qqzmfbzdtnknn2four
+all digits this line: [3, 9, 2, 4]
+added digit: 34
+current line is: 8kxxljngrqsgkxcnlhrlxxfgl57fql7
+all digits this line: [8, 5, 7, 7]
+added digit: 87
+current line is: vhrjlgqjnnthree4four8fivebfourffcnbghnz
+all digits this line: [3, 4, 4, 8, 5, 4]
+added digit: 34
+current line is: 5jb5oneoneonebseven
+all digits this line: [5, 5, 1, 1, 1, 7]
+added digit: 57
+current line is: kbkv3three4rgdkdzkrkk
+all digits this line: [3, 3, 4]
+added digit: 34
+current line is: eightxhxzkbhjxsvfsjfbzghktvlqhseven2xkslcrfsgdc
+all digits this line: [8, 7, 2]
+added digit: 82
+current line is: sevenone6rmkcvfour6jhvhz
+all digits this line: [7, 1, 6, 4, 6]
+added digit: 76
+current line is: threenhfprcngzhcqckchphcninecmqvczqt5
+all digits this line: [3, 9, 5]
+added digit: 35
+current line is: foureight6
+all digits this line: [4, 8, 6]
+added digit: 46
+current line is: 7fkrgmdrxgdkfpvxkns9
+all digits this line: [7, 9]
+added digit: 79
+current line is: 5onetwoqnp
+all digits this line: [5, 1, 2]
+added digit: 52
+current line is: nine73dbfljgnninecdgxrgkdlsqzflbtwo
+all digits this line: [9, 7, 3, 9, 2]
+added digit: 92
+current line is: five3jcsevenfour8sevenjgfxkfgnlzbkb
+all digits this line: [5, 3, 7, 4, 8, 7]
+added digit: 57
+current line is: lqtvkrfour67gdnrhkfvzgfoureightone
+all digits this line: [4, 6, 7, 4, 8, 1]
+added digit: 41
+current line is: kct1pljt8seven
+all digits this line: [1, 8, 7]
+added digit: 17
+current line is: six269two
+all digits this line: [6, 2, 6, 9, 2]
+added digit: 62
+current line is: 64k
+all digits this line: [6, 4]
+added digit: 64
+current line is: 41ggbblvhs726
+all digits this line: [4, 1, 7, 2, 6]
+added digit: 46
+current line is: mbvfq5gghsxtwomngfczfdpb1seven
+all digits this line: [5, 2, 1, 7]
+added digit: 57
+current line is: 4ggzmdpbkrczhmmrk5
+all digits this line: [4, 5]
+added digit: 45
+current line is: 317
+all digits this line: [3, 1, 7]
+added digit: 37
+current line is: pxtgbfnfhqgncrsgtf7sixfour
+all digits this line: [7, 6, 4]
+added digit: 74
+current line is: dvqnfourcsnmcxnxq7ghmjbgmct
+all digits this line: [4, 7]
+added digit: 47
+current line is: vnskfrdcjdoneddjpkcj7fourjjlllonepxlpjkzbzfour
+all digits this line: [1, 7, 4, 1, 4]
+added digit: 14
+current line is: hbdjzfbvrthreekxmlkm49
+all digits this line: [3, 4, 9]
+added digit: 39
+current line is: trptone5bpsxgl
+all digits this line: [1, 5]
+added digit: 15
+current line is: 5one1
+all digits this line: [5, 1, 1]
+added digit: 51
+current line is: sixsixfzgbninecxssl9
+all digits this line: [6, 6, 9, 9]
+added digit: 69
+current line is: six7xdnsdgsix4
+all digits this line: [6, 7, 6, 4]
+added digit: 64
+current line is: fivefive84fxrzgk4eight81
+all digits this line: [5, 5, 8, 4, 4, 8, 8, 1]
+added digit: 51
+current line is: zszvqhms8sstxvfz
+all digits this line: [8]
+added digit: 88
+current line is: 3one3sixbmxbfsdbdtmh
+all digits this line: [3, 1, 3, 6]
+added digit: 36
+current line is: qnfgnjgcv6two57
+all digits this line: [6, 2, 5, 7]
+added digit: 67
+current line is: 5676xzlbzk485seven
+all digits this line: [5, 6, 7, 6, 4, 8, 5, 7]
+added digit: 57
+current line is: five8dbbtpxctf
+all digits this line: [5, 8]
+added digit: 58
+current line is: two1gntvjr
+all digits this line: [2, 1]
+added digit: 21
+current line is: 77one
+all digits this line: [7, 7, 1]
+added digit: 71
+current line is: vlnkqvczts5tkghpvthree6krgszgx4
+all digits this line: [5, 3, 6, 4]
+added digit: 54
+current line is: nine2threefoureight
+all digits this line: [9, 2, 3, 4, 8]
+added digit: 98
+current line is: foursevenhc3twofour
+all digits this line: [4, 7, 3, 2, 4]
+added digit: 44
+current line is: 9zzgqfzmfpsfn
+all digits this line: [9]
+added digit: 99
+current line is: ghb57sixeightwofqc
+all digits this line: [5, 7, 6, 8, 2]
+added digit: 52
+current line is: 6twovninejckdhmcsxkfoursix5
+all digits this line: [6, 2, 9, 4, 6, 5]
+added digit: 65
+current line is: oneqxljxjhnineppln419
+all digits this line: [1, 9, 4, 1, 9]
+added digit: 19
+current line is: one2zlfsxrkfourthreexl7
+all digits this line: [1, 2, 4, 3, 7]
+added digit: 17
+current line is: nqbtczpblq856one6
+all digits this line: [8, 5, 6, 1, 6]
+added digit: 86
+current line is: 3cxmmzlh1
+all digits this line: [3, 1]
+added digit: 31
+current line is: frjsdskzk79lcxvjqqdnlqsmbpbdxrxthreeseven
+all digits this line: [7, 9, 3, 7]
+added digit: 77
+current line is: twoone457fivetbq4
+all digits this line: [2, 1, 4, 5, 7, 5, 4]
+added digit: 24
+current line is: fourtvbdksxsjxzgdk77
+all digits this line: [4, 7, 7]
+added digit: 47
+current line is: fourgbvdlpbgztwoftmkjkkmthreesix1
+all digits this line: [4, 2, 3, 6, 1]
+added digit: 41
+current line is: nhrqfbzggrskfgmnbg7sevenfzrnlxfbtc
+all digits this line: [7, 7]
+added digit: 77
+current line is: foursevenmdrnfqsn4jvnrntwo29
+all digits this line: [4, 7, 4, 2, 2, 9]
+added digit: 49
+current line is: fivevzvszgqvqp6627zqnk
+all digits this line: [5, 6, 6, 2, 7]
+added digit: 57
+current line is: 15fcvczdlqprxjzhgbxpxs5
+all digits this line: [1, 5, 5]
+added digit: 15
+current line is: 9fourfivejsgvnf9five
+all digits this line: [9, 4, 5, 9, 5]
+added digit: 95
+current line is: kzlndjrn8rgq
+all digits this line: [8]
+added digit: 88
+current line is: spfqqx3sevenoneldqnqbmspvsixfiveninezmvks
+all digits this line: [3, 7, 1, 6, 5, 9]
+added digit: 39
+current line is: oneseven5
+all digits this line: [1, 7, 5]
+added digit: 15
+current line is: 2eightfour5bqbmsnhmtfivebss
+all digits this line: [2, 8, 4, 5, 5]
+added digit: 25
+current line is: ninejnckkvseven4
+all digits this line: [9, 7, 4]
+added digit: 94
+current line is: jzhfcmvb8fiveqgq18fivevlpgdnkbq
+all digits this line: [8, 5, 1, 8, 5]
+added digit: 85
+current line is: 67four
+all digits this line: [6, 7, 4]
+added digit: 64
+current line is: grzpdtl9
+all digits this line: [9]
+added digit: 99
+current line is: lzf8fivedr2fivevbpldcone
+all digits this line: [8, 5, 2, 5, 1]
+added digit: 81
+current line is: nine4bdfptdffgkssltwopl
+all digits this line: [9, 4, 2]
+added digit: 92
+current line is: eightlvgfhfbsqrdjrskqkprdlltnzzpfhnczsonetwo5eight
+all digits this line: [8, 1, 2, 5, 8]
+added digit: 88
+current line is: 7xqfgzglblftvsqqbgpfmthreesix9jfl2
+all digits this line: [7, 3, 6, 9, 2]
+added digit: 72
+current line is: eightgngsvqvrhgmvhtqhbpdeightfour6
+all digits this line: [8, 8, 4, 6]
+added digit: 86
+current line is: 1bqvpnggbdrfoureightxmclfpfqgjssrpflnzl
+all digits this line: [1, 4, 8]
+added digit: 18
+current line is: eightfive1qvhhthk9ninetwo
+all digits this line: [8, 5, 1, 9, 9, 2]
+added digit: 82
+current line is: six36fourfivefivezsvndsl5four
+all digits this line: [6, 3, 6, 4, 5, 5, 5, 4]
+added digit: 64
+current line is: jnpzplgbqf6tlzpsgvzhtnkdvhzhbvhps5
+all digits this line: [6, 5]
+added digit: 65
+current line is: cldz3bfpvdxjmc
+all digits this line: [3]
+added digit: 33
+current line is: dpponeseven48sevennineeightrkn
+all digits this line: [1, 7, 4, 8, 7, 9, 8]
+added digit: 18
+current line is: five3fournine
+all digits this line: [5, 3, 4, 9]
+added digit: 59
+current line is: 2xcckljnjz98mjjscfjsxsevenqhxrqvqmbvhzgkc
+all digits this line: [2, 9, 8, 7]
+added digit: 27
+current line is: sixtwo66469
+all digits this line: [6, 2, 6, 6, 4, 6, 9]
+added digit: 69
+current line is: 79four5eight
+all digits this line: [7, 9, 4, 5, 8]
+added digit: 78
+current line is: jxqktt47
+all digits this line: [4, 7]
+added digit: 47
+current line is: eight36
+all digits this line: [8, 3, 6]
+added digit: 86
+current line is: rsjlmlj5oneightc
+all digits this line: [5, 1, 8]
+added digit: 58
+current line is: xczzpjknphtspmh7eightvfzjjk2five
+all digits this line: [7, 8, 2, 5]
+added digit: 75
+current line is: kmznfcxhsn8fivethreexnineone2
+all digits this line: [8, 5, 3, 9, 1, 2]
+added digit: 82
+current line is: four6six
+all digits this line: [4, 6, 6]
+added digit: 46
+current line is: 2hhnine627
+all digits this line: [2, 9, 6, 2, 7]
+added digit: 27
+current line is: eightnine1vkdpgvxgm
+all digits this line: [8, 9, 1]
+added digit: 81
+current line is: 8three6pvtqmfdxdkxps
+all digits this line: [8, 3, 6]
+added digit: 86
+current line is: 7frnthree
+all digits this line: [7, 3]
+added digit: 73
+current line is: 78tworhldxeighttphp
+all digits this line: [7, 8, 2, 8]
+added digit: 78
+current line is: dcmv6vvfbzjdtphbpssjnnqdmrgzgkfdveightwov
+all digits this line: [6, 8, 2]
+added digit: 62
+current line is: zsbmctdseven1snxmqxzgsix9
+all digits this line: [7, 1, 6, 9]
+added digit: 79
+current line is: lxtwo4sevenxsix
+all digits this line: [2, 4, 7, 6]
+added digit: 26
+current line is: tkdkqfpj5eightq8two447
+all digits this line: [5, 8, 8, 2, 4, 4, 7]
+added digit: 57
+current line is: seven1onesixfivest
+all digits this line: [7, 1, 1, 6, 5]
+added digit: 75
+current line is: 45six5sevenseven
+all digits this line: [4, 5, 6, 5, 7, 7]
+added digit: 47
+current line is: jpxxdjphzskpbrllninexmmmdxrznzthreecvsmjssmfxczhm5
+all digits this line: [9, 3, 5]
+added digit: 95
+current line is: 4flhfqlphfcnn9sevenx3
+all digits this line: [4, 9, 7, 3]
+added digit: 43
+current line is: 16ttrmgqninefsgvkt5four
+all digits this line: [1, 6, 9, 5, 4]
+added digit: 14
+current line is: 3snfkm
+all digits this line: [3]
+added digit: 33
+current line is: 6threetwoglgkbqjlsn4fivehcgfour
+all digits this line: [6, 3, 2, 4, 5, 4]
+added digit: 64
+current line is: ninesixfive1ninelgdmhkqrvn
+all digits this line: [9, 6, 5, 1, 9]
+added digit: 99
+current line is: two3pxvlsheight
+all digits this line: [2, 3, 8]
+added digit: 28
+current line is: two51
+all digits this line: [2, 5, 1]
+added digit: 21
+current line is: sixninezkbfbxgzznlgtpxgcpzvgkczdbfive8three
+all digits this line: [6, 9, 5, 8, 3]
+added digit: 63
+current line is: fourjljzqgbsthreeqjdgsqpspnsixxnglmkss5m
+all digits this line: [4, 3, 6, 5]
+added digit: 45
+current line is: 32sevenctqtqrqlsfourfoursixrcjztxx
+all digits this line: [3, 2, 7, 4, 4, 6]
+added digit: 36
+current line is: 8qlccjngpt
+all digits this line: [8]
+added digit: 88
+current line is: 2eight58five
+all digits this line: [2, 8, 5, 8, 5]
+added digit: 25
+current line is: 1ninesevenxtlbrq6
+all digits this line: [1, 9, 7, 6]
+added digit: 16
+current line is: 9fivevkmm8tgxfkzvgq
+all digits this line: [9, 5, 8]
+added digit: 98
+current line is: 53txg
+all digits this line: [5, 3]
+added digit: 53
+current line is: 3xqmjvxkcbjf2
+all digits this line: [3, 2]
+added digit: 32
+current line is: 2fhndgqnqd5
+all digits this line: [2, 5]
+added digit: 25
+current line is: 2vnrpjdb6four79
+all digits this line: [2, 6, 4, 7, 9]
+added digit: 29
+current line is: 7four5
+all digits this line: [7, 4, 5]
+added digit: 75
+current line is: foursix5hdcg489ninerncnk
+all digits this line: [4, 6, 5, 4, 8, 9, 9]
+added digit: 49
+current line is: 6s2jd
+all digits this line: [6, 2]
+added digit: 62
+current line is: fournine8ninejn6rkknh5
+all digits this line: [4, 9, 8, 9, 6, 5]
+added digit: 45
+current line is: fcfxflzv7seven7
+all digits this line: [7, 7, 7]
+added digit: 77
+current line is: 1fournineqzknrvfhdxfoureight4seveneightwobr
+all digits this line: [1, 4, 9, 4, 8, 4, 7, 8, 2]
+added digit: 12
+current line is: 1two3
+all digits this line: [1, 2, 3]
+added digit: 13
+current line is: twombl5
+all digits this line: [2, 5]
+added digit: 25
+current line is: fourzjh9six
+all digits this line: [4, 9, 6]
+added digit: 46
+current line is: 1ljrvbrqpcchb
+all digits this line: [1]
+added digit: 11
+current line is: 11rvqfmcxgg
+all digits this line: [1, 1]
+added digit: 11
+current line is: fiveoneggjpmdt2t
+all digits this line: [5, 1, 2]
+added digit: 52
+current line is: nnjdzhdrkvhpxnprlfrhxpbtpbdxm1xfshdr
+all digits this line: [1]
+added digit: 11
+current line is: five39threehhrhsrhhqkjt9
+all digits this line: [5, 3, 9, 3, 9]
+added digit: 59
+current line is: hm8nine
+all digits this line: [8, 9]
+added digit: 89
+current line is: 3ldckgksm48xc2seven8gbzfq
+all digits this line: [3, 4, 8, 2, 7, 8]
+added digit: 38
+current line is: sixqpcqjzqxsjhr7
+all digits this line: [6, 7]
+added digit: 67
+current line is: kthreethreelmjfour485
+all digits this line: [3, 3, 4, 4, 8, 5]
+added digit: 35
+current line is: mnggrsbbnh1
+all digits this line: [1]
+added digit: 11
+current line is: xfn5
+all digits this line: [5]
+added digit: 55
+current line is: qzlxtczqlvninekjnbnonefcbqqgfmqf66xpvjgfzjgxvjrcqmzx
+all digits this line: [9, 1, 6, 6]
+added digit: 96
+current line is: krsfvctzfhonejxtqbbnd7eight
+all digits this line: [1, 7, 8]
+added digit: 18
+current line is: tjhgbtqtwoljone9
+all digits this line: [2, 1, 9]
+added digit: 29
+current line is: mdfntzfpg1fiveninecvxrfnine2
+all digits this line: [1, 5, 9, 9, 2]
+added digit: 12
+current line is: 7hcrxzc
+all digits this line: [7]
+added digit: 77
+current line is: 6two6plgrmbnine9sdbvgtnj
+all digits this line: [6, 2, 6, 9, 9]
+added digit: 69
+current line is: threenine4fthstfjzzp
+all digits this line: [3, 9, 4]
+added digit: 34
+current line is: 6eighteight9npghczggthreectqssdtp
+all digits this line: [6, 8, 8, 9, 3]
+added digit: 63
+current line is: flc4gtqsjmrddx8eightseven
+all digits this line: [4, 8, 8, 7]
+added digit: 47
+current line is: threeone1oneone7
+all digits this line: [3, 1, 1, 1, 1, 7]
+added digit: 37
+current line is: gfbfjzltcjfkkrsprgtpfive4
+all digits this line: [5, 4]
+added digit: 54
+current line is: sixrdzp2onesevenrqrtldnq4c
+all digits this line: [6, 2, 1, 7, 4]
+added digit: 64
+current line is: sevenktwo3threeeightthreenhnmpdmlqjnvl
+all digits this line: [7, 2, 3, 3, 8, 3]
+added digit: 73
+current line is: 4eight82717
+all digits this line: [4, 8, 8, 2, 7, 1, 7]
+added digit: 47
+current line is: nrhqqkmkeightthreenzqbgcphoneseven7
+all digits this line: [8, 3, 1, 7, 7]
+added digit: 87
+current line is: twoprrgggznzffour5bbrdsvtgkkrbl5nlrkpjmnbzgsbtl
+all digits this line: [2, 4, 5, 5]
+added digit: 25
+current line is: 28pvjrszmrdntp4nqdnhkdrtwoxr
+all digits this line: [2, 8, 4, 2]
+added digit: 22
+current line is: sixsix9five4
+all digits this line: [6, 6, 9, 5, 4]
+added digit: 64
+current line is: lxchg91threethree74
+all digits this line: [9, 1, 3, 3, 7, 4]
+added digit: 94
+current line is: 6bmxblxdkghqdjqgqbrqtxknvdsevenztgspsfh83
+all digits this line: [6, 7, 8, 3]
+added digit: 63
+current line is: 39bsspvhslzkmrnzxtlxsbhk4
+all digits this line: [3, 9, 4]
+added digit: 34
+current line is: 74seveneight9ninedgzgjdvxgvrnfz
+all digits this line: [7, 4, 7, 8, 9, 9]
+added digit: 79
+current line is: fourxvvqsfktptjbsb69
+all digits this line: [4, 6, 9]
+added digit: 49
+current line is: rxsevenfive5vx9
+all digits this line: [7, 5, 5, 9]
+added digit: 79
+current line is: 72six7
+all digits this line: [7, 2, 6, 7]
+added digit: 77
+current line is: five5lcxv2jvsssxqjtmzclfdfourfive
+all digits this line: [5, 5, 2, 4, 5]
+added digit: 55
+current line is: 87three9
+all digits this line: [8, 7, 3, 9]
+added digit: 89
+current line is: 6rckksfour413331
+all digits this line: [6, 4, 4, 1, 3, 3, 3, 1]
+added digit: 61
+current line is: 33gtz
+all digits this line: [3, 3]
+added digit: 33
+current line is: xkmxtvzhgxqqmknn9pzhgjxqseight
+all digits this line: [9, 8]
+added digit: 98
+current line is: 8threefivedrtlgrnqfouroneq
+all digits this line: [8, 3, 5, 4, 1]
+added digit: 81
+current line is: 6snzkxjcfive62dqtqmtwoxnine
+all digits this line: [6, 5, 6, 2, 2, 9]
+added digit: 69
+current line is: zxtjclonefour1eight5eight1
+all digits this line: [1, 4, 1, 8, 5, 8, 1]
+added digit: 11
+current line is: qlffthreeseven2three
+all digits this line: [3, 7, 2, 3]
+added digit: 33
+current line is: xfppngbg5six3two8nine
+all digits this line: [5, 6, 3, 2, 8, 9]
+added digit: 59
+current line is: ninesevensevencfhppvhdnfour8
+all digits this line: [9, 7, 7, 4, 8]
+added digit: 98
+current line is: xhvnm1
+all digits this line: [1]
+added digit: 11
+current line is: 9threecbdccktrkfourfour9twoneqd
+all digits this line: [9, 3, 4, 4, 9, 2, 1]
+added digit: 91
+current line is: 1five4fivenine
+all digits this line: [1, 5, 4, 5, 9]
+added digit: 19
+current line is: jcscpdtzk757nine8
+all digits this line: [7, 5, 7, 9, 8]
+added digit: 78
+current line is: sevenninesixxkzzzbfour2three
+all digits this line: [7, 9, 6, 4, 2, 3]
+added digit: 73
+current line is: sixthreetwovfqxtbvcrrjtwo3four9
+all digits this line: [6, 3, 2, 2, 3, 4, 9]
+added digit: 69
+current line is: nzdjhtlqfnxmrzvgrzkfmm7mhmvbbxfd
+all digits this line: [7]
+added digit: 77
+current line is: 3seven2eight99
+all digits this line: [3, 7, 2, 8, 9, 9]
+added digit: 39
+current line is: two6nineljvxs5eightseven3
+all digits this line: [2, 6, 9, 5, 8, 7, 3]
+added digit: 23
+current line is: 55fivezgbmcdpv
+all digits this line: [5, 5, 5]
+added digit: 55
+current line is: hkgvvrtrtwopjbqhtts8seven
+all digits this line: [2, 8, 7]
+added digit: 27
+current line is: c138
+all digits this line: [1, 3, 8]
+added digit: 18
+current line is: mnrnhqtzthreesnnj2
+all digits this line: [3, 2]
+added digit: 32
+current line is: 81
+all digits this line: [8, 1]
+added digit: 81
+current line is: qscxbblvsxsgtcpr4cphmxgmbrb
+all digits this line: [4]
+added digit: 44
+current line is: 4six2mrvdpxqvhngrrzhjdjfp
+all digits this line: [4, 6, 2]
+added digit: 42
+current line is: 4tmrlmdfivefivethree7
+all digits this line: [4, 5, 5, 3, 7]
+added digit: 47
+current line is: 363
+all digits this line: [3, 6, 3]
+added digit: 33
+current line is: 8488one
+all digits this line: [8, 4, 8, 8, 1]
+added digit: 81
+current line is: 827pcxnhpk
+all digits this line: [8, 2, 7]
+added digit: 87
+current line is: ckbdqdvhdd4hrb9nnghltwo
+all digits this line: [4, 9, 2]
+added digit: 42
+current line is: 5onecjjfdfrxppqkhrpthree5lr4
+all digits this line: [5, 1, 3, 5, 4]
+added digit: 54
+current line is: 62lvlsp2sixfive5
+all digits this line: [6, 2, 2, 6, 5, 5]
+added digit: 65
+current line is: czxfkhcbvcdhdzx2
+all digits this line: [2]
+added digit: 22
+current line is: jzdgngb68
+all digits this line: [6, 8]
+added digit: 68
+current line is: fourtwo18pxkttcr8four
+all digits this line: [4, 2, 1, 8, 8, 4]
+added digit: 44
+current line is: bkttjvvmxvzkhmxtpqrxxhslstwo6five22
+all digits this line: [2, 6, 5, 2, 2]
+added digit: 22
+current line is: four26mcvb2fivepone
+all digits this line: [4, 2, 6, 2, 5, 1]
+added digit: 41
+current line is: dzptwo5ninejgjrfour
+all digits this line: [2, 5, 9, 4]
+added digit: 24
+current line is: nrhqqnjfour9four
+all digits this line: [4, 9, 4]
+added digit: 44
+current line is: ffoneightpxp41six
+all digits this line: [1, 8, 4, 1, 6]
+added digit: 16
+current line is: threeninehzmrh8dzvmpgrhsv
+all digits this line: [3, 9, 8]
+added digit: 38
+current line is: 5onefour5
+all digits this line: [5, 1, 4, 5]
+added digit: 55
+current line is: jdl5fourtwo8
+all digits this line: [5, 4, 2, 8]
+added digit: 58
+current line is: threefour8seventwo1seven
+all digits this line: [3, 4, 8, 7, 2, 1, 7]
+added digit: 37
+current line is: lvkjd6five6fxkfthxkgmfour6
+all digits this line: [6, 5, 6, 4, 6]
+added digit: 66
+current line is: three3seventhreepbsgc
+all digits this line: [3, 3, 7, 3]
+added digit: 33
+current line is: 7threethree6fgmfgcv6glrk
+all digits this line: [7, 3, 3, 6, 6]
+added digit: 76
+current line is: nine3five
+all digits this line: [9, 3, 5]
+added digit: 95
+current line is: 54one9
+all digits this line: [5, 4, 1, 9]
+added digit: 59
+current line is: jhvqhrvqfrfgpdrh3three5
+all digits this line: [3, 3, 5]
+added digit: 35
+current line is: 3psztbfour4
+all digits this line: [3, 4, 4]
+added digit: 34
+current line is: nlffive1nxcqpfour232
+all digits this line: [5, 1, 4, 2, 3, 2]
+added digit: 52
+current line is: 3threetwosgsbdjnt
+all digits this line: [3, 3, 2]
+added digit: 32
+current line is: dtfstb1qhggj
+all digits this line: [1]
+added digit: 11
+current line is: qnnp9twojdg4kfzvtbsevenfour
+all digits this line: [9, 2, 4, 7, 4]
+added digit: 94
+current line is: qfnmdkfkpndd36sixsixfourseven
+all digits this line: [3, 6, 6, 6, 4, 7]
+added digit: 37
+current line is: 8seven7oneseven9x4five
+all digits this line: [8, 7, 7, 1, 7, 9, 4, 5]
+added digit: 85
+current line is: 4847onetgmsbjjqhtfiveksmmlftk
+all digits this line: [4, 8, 4, 7, 1, 5]
+added digit: 45
+current line is: fivesixlklrnhtdfg3
+all digits this line: [5, 6, 3]
+added digit: 53
+current line is: cpcqone1pnxkhrkdhhzheightlpb5three
+all digits this line: [1, 1, 8, 5, 3]
+added digit: 13
+current line is: eighttwo6
+all digits this line: [8, 2, 6]
+added digit: 86
+current line is: seven2fourfourvfzxqbh7
+all digits this line: [7, 2, 4, 4, 7]
+added digit: 77
+current line is: frf1fivesix3snnlpgpc7
+all digits this line: [1, 5, 6, 3, 7]
+added digit: 17
+current line is: svtvfcsevenhszznbzpfiveeight2
+all digits this line: [7, 5, 8, 2]
+added digit: 72
+current line is: lqpqzthree5mcmzpqlxkgpssix
+all digits this line: [3, 5, 6]
+added digit: 36
+current line is: 9sltfzqsczpjbndmqbccgmq
+all digits this line: [9]
+added digit: 99
+current line is: 5six9fourxppzkgbj6
+all digits this line: [5, 6, 9, 4, 6]
+added digit: 56
+current line is: 8dqhklnxseven1
+all digits this line: [8, 7, 1]
+added digit: 81
+current line is: 3two4
+all digits this line: [3, 2, 4]
+added digit: 34
+current line is: ktvlhmq3xzmcztbplxlqzpqmoneightffd
+all digits this line: [3, 1, 8]
+added digit: 38
+current line is: 76dklx7two8nine5vgvh
+all digits this line: [7, 6, 7, 2, 8, 9, 5]
+added digit: 75
+current line is: xmgjgfz4
+all digits this line: [4]
+added digit: 44
+current line is: two7tcnceight9
+all digits this line: [2, 7, 8, 9]
+added digit: 29
+current line is: ninecvfgpbrqcgvplt32six
+all digits this line: [9, 3, 2, 6]
+added digit: 96
+current line is: g3rcbzqxnjllqoneklpbjzbqbseven
+all digits this line: [3, 1, 7]
+added digit: 37
+current line is: svkf8ggdnmeighthhjlz3four
+all digits this line: [8, 8, 3, 4]
+added digit: 84
+current line is: hfdb44zqjmxbrft3qrpgvjngc1
+all digits this line: [4, 4, 3, 1]
+added digit: 41
+current line is: dzsbnsrg35tm
+all digits this line: [3, 5]
+added digit: 35
+current line is: qchpdcg2
+all digits this line: [2]
+added digit: 22
+current line is: 9775fcg91
+all digits this line: [9, 7, 7, 5, 9, 1]
+added digit: 91
+current line is: gdrhdgmfdk77eight
+all digits this line: [7, 7, 8]
+added digit: 78
+current line is: 14bsixthreeseven
+all digits this line: [1, 4, 6, 3, 7]
+added digit: 17
+current line is: two1twoninepkkvhlzlt3
+all digits this line: [2, 1, 2, 9, 3]
+added digit: 23
+current line is: kvslhphhj9fourvljqbfive
+all digits this line: [9, 4, 5]
+added digit: 95
+current line is: 8nc6
+all digits this line: [8, 6]
+added digit: 86
+current line is: qg7six
+all digits this line: [7, 6]
+added digit: 76
+current line is: 7vkgv8
+all digits this line: [7, 8]
+added digit: 78
+current line is: td5fivefive
+all digits this line: [5, 5, 5]
+added digit: 55
+current line is: xvfour8jttrsvvjkkdxxzjsl
+all digits this line: [4, 8]
+added digit: 48
+current line is: 7qbgdfkj4fourfivenmqtfmgeight
+all digits this line: [7, 4, 4, 5, 8]
+added digit: 78
+current line is: eightfourdzxpfggzxcqrmtxnggchlqtwokcnrdhqf1
+all digits this line: [8, 4, 2, 1]
+added digit: 81
+current line is: lbhcptlfhflgthreefive9cpprdlbv
+all digits this line: [3, 5, 9]
+added digit: 39
+current line is: nine7941cfxnxszfivebm
+all digits this line: [9, 7, 9, 4, 1, 5]
+added digit: 95
+current line is: ninenhgpj7fourfour9
+all digits this line: [9, 7, 4, 4, 9]
+added digit: 99
+current line is: 456xg
+all digits this line: [4, 5, 6]
+added digit: 46
+current line is: ninethreesqdp11four32lgdl
+all digits this line: [9, 3, 1, 1, 4, 3, 2]
+added digit: 92
+current line is: 38trrgt7
+all digits this line: [3, 8, 7]
+added digit: 37
+current line is: tnhhxlm3rvzvxmmcgpxm
+all digits this line: [3]
+added digit: 33
+current line is: oneqtmg25snbgzfhtkq8hdlvszrclcsrhqsdn
+all digits this line: [1, 2, 5, 8]
+added digit: 18
+current line is: 3cjndzmkfx
+all digits this line: [3]
+added digit: 33
+current line is: clxvdv7seven
+all digits this line: [7, 7]
+added digit: 77
+current line is: five6three1
+all digits this line: [5, 6, 3, 1]
+added digit: 51
+current line is: 8sixfour36seven9mlxmrx7
+all digits this line: [8, 6, 4, 3, 6, 7, 9, 7]
+added digit: 87
+current line is: vdrk27jnrbrvdrnine2nvnlkcszoneightchk
+all digits this line: [2, 7, 9, 2, 1, 8]
+added digit: 28
+current line is: 67drgjqrqdktplq
+all digits this line: [6, 7]
+added digit: 67
+current line is: 36pprvngxrrjtnpffmrxxdl
+all digits this line: [3, 6]
+added digit: 36
+current line is: hkkrgxtpvzzmcrfcbcjzbpnvls88hrxl
+all digits this line: [8, 8]
+added digit: 88
+current line is: b4jkeightsevenmxkdpvdpt857
+all digits this line: [4, 8, 7, 8, 5, 7]
+added digit: 47
+current line is: 6eighteight2four
+all digits this line: [6, 8, 8, 2, 4]
+added digit: 64
+current line is: eights73five
+all digits this line: [8, 7, 3, 5]
+added digit: 85
+current line is: fiveslpjvzjlpvzone41nine
+all digits this line: [5, 1, 4, 1, 9]
+added digit: 59
+current line is: smnmlrxx7
+all digits this line: [7]
+added digit: 77
+current line is: onesixfive4
+all digits this line: [1, 6, 5, 4]
+added digit: 14
+current line is: 8s75eightone
+all digits this line: [8, 7, 5, 8, 1]
+added digit: 81
+current line is: 1fivecpqsxm
+all digits this line: [1, 5]
+added digit: 15
+current line is: 99743ninesix
+all digits this line: [9, 9, 7, 4, 3, 9, 6]
+added digit: 96
+current line is: twopzflcvxsgzn1v8
+all digits this line: [2, 1, 8]
+added digit: 28
+current line is: 9three49
+all digits this line: [9, 3, 4, 9]
+added digit: 99
+current line is: two2sevenf8sixvdpxzgxbmkrz2
+all digits this line: [2, 2, 7, 8, 6, 2]
+added digit: 22
+current line is: sevenfive6shhbqhgqqhstdrnfxsjtjvnine
+all digits this line: [7, 5, 6, 9]
+added digit: 79
+current line is: kzqsvn29s
+all digits this line: [2, 9]
+added digit: 29
+current line is: threenlrrhz4ttqljvr
+all digits this line: [3, 4]
+added digit: 34
+current line is: qx9sfdx
+all digits this line: [9]
+added digit: 99
+current line is: nhsbgsvvp7
+all digits this line: [7]
+added digit: 77
+current line is: 876eightfivetprjjbxhzbfpqgltt1
+all digits this line: [8, 7, 6, 8, 5, 1]
+added digit: 81
+current line is: six3xdjtphrm1pbjvjfn
+all digits this line: [6, 3, 1]
+added digit: 61
+current line is: nflcpmjpt6six9two6xvbmbm
+all digits this line: [6, 6, 9, 2, 6]
+added digit: 66
+current line is: fmlglbgmhvseven4nnkkgcmbv9chmthxvztgsevenbtzs
+all digits this line: [7, 4, 9, 7]
+added digit: 77
+current line is: 7bkmchf4five
+all digits this line: [7, 4, 5]
+added digit: 75
+current line is: xgglktnbeight183twonine
+all digits this line: [8, 1, 8, 3, 2, 9]
+added digit: 89
+current line is: onecbpdv9
+all digits this line: [1, 9]
+added digit: 19
+current line is: fhhmddrnlnkvlb5drtcbrjprzcqlj7mgspc
+all digits this line: [5, 7]
+added digit: 57
+current line is: 7threexkfjklvzcfourtnrgmpveightfour8
+all digits this line: [7, 3, 4, 8, 4, 8]
+added digit: 78
+current line is: 6rhmcblhfourtwo3two
+all digits this line: [6, 4, 2, 3, 2]
+added digit: 62
+current line is: one4fiveonenine
+all digits this line: [1, 4, 5, 1, 9]
+added digit: 19
+current line is: slksfchvlgblninefszfbksddgvd4
+all digits this line: [9, 4]
+added digit: 94
+current line is: four742sbseven3lk
+all digits this line: [4, 7, 4, 2, 7, 3]
+added digit: 43
+current line is: 8qbchrfldtvppv6fourzfivez
+all digits this line: [8, 6, 4, 5]
+added digit: 85
+current line is: ninephsmnnvsfour1
+all digits this line: [9, 4, 1]
+added digit: 91
+current line is: one5kvcrtnc5sixonehjfxnsixfqhzjj
+all digits this line: [1, 5, 5, 6, 1, 6]
+added digit: 16
+current line is: 8drgrzngh
+all digits this line: [8]
+added digit: 88
+current line is: 16eight8rczbjmblhn
+all digits this line: [1, 6, 8, 8]
+added digit: 18
+current line is: threejpgjbpfdbvgdpftwo96
+all digits this line: [3, 2, 9, 6]
+added digit: 36
+current line is: sfkhvjgd2smgfkr9two27
+all digits this line: [2, 9, 2, 2, 7]
+added digit: 27
+current line is: threeqpdeight3
+all digits this line: [3, 8, 3]
+added digit: 33
+current line is: threesevenxblrmqkvzvrbhsix4
+all digits this line: [3, 7, 6, 4]
+added digit: 34
+current line is: 9seven2vlhsninenvptdvmrpzbrlpfhfnl
+all digits this line: [9, 7, 2, 9]
+added digit: 99
+current line is: xkjpdpgsrtvlfg1eight
+all digits this line: [1, 8]
+added digit: 18
+current line is: seven254
+all digits this line: [7, 2, 5, 4]
+added digit: 74
+current line is: three8fnmcfhrdtjdlpfqlqhgx
+all digits this line: [3, 8]
+added digit: 38
+current line is: 21bkjv54s8
+all digits this line: [2, 1, 5, 4, 8]
+added digit: 28
+current line is: 82ddfour6vcggxhlmpfivesix
+all digits this line: [8, 2, 4, 6, 5, 6]
+added digit: 86
+current line is: cdsbgtpqthreefivel8nine
+all digits this line: [3, 5, 8, 9]
+added digit: 39
+current line is: 5five5cksct7bvjbtdjkcz
+all digits this line: [5, 5, 5, 7]
+added digit: 57
+current line is: 64fhm
+all digits this line: [6, 4]
+added digit: 64
+current line is: tqk5
+all digits this line: [5]
+added digit: 55
+current line is: 3mhzkhtfzscpgfctfskdn2five
+all digits this line: [3, 2, 5]
+added digit: 35
+current line is: cvmvthreez8fivegvcbsxj35nfxdshqz
+all digits this line: [3, 8, 5, 3, 5]
+added digit: 35
+current line is: sevenqlqmkhdjpmsjrtggqzfive35scmnfpmhmp
+all digits this line: [7, 5, 3, 5]
+added digit: 75
+current line is: sixfive2
+all digits this line: [6, 5, 2]
+added digit: 62
+current line is: 6sevensvqhhfivetwo
+all digits this line: [6, 7, 5, 2]
+added digit: 62
+current line is: eightthree84
+all digits this line: [8, 3, 8, 4]
+added digit: 84
+current line is: 82six8
+all digits this line: [8, 2, 6, 8]
+added digit: 88
+current line is: 8bbhrkzgtg59cpgdvb
+all digits this line: [8, 5, 9]
+added digit: 89
+current line is: 11three3hfjkvmsl
+all digits this line: [1, 1, 3, 3]
+added digit: 13
+current line is: qdljkm792
+all digits this line: [7, 9, 2]
+added digit: 72
+current line is: eightgq5xgskvtpgmhxsnhzlqhnksxflvx
+all digits this line: [8, 5]
+added digit: 85
+current line is: ghdhv1seventhree55fourthreemrlhq
+all digits this line: [1, 7, 3, 5, 5, 4, 3]
+added digit: 13
+current line is: oneonethree3zm
+all digits this line: [1, 1, 3, 3]
+added digit: 13
+current line is: 3twobsxqfsfnine
+all digits this line: [3, 2, 9]
+added digit: 39
+current line is: eightsbznkpzsqqtpxfhlfr5
+all digits this line: [8, 5]
+added digit: 85
+current line is: sevenchs2twoeight
+all digits this line: [7, 2, 2, 8]
+added digit: 78
+current line is: ninezjtxp7bpzdgtoneeightoneighth
+all digits this line: [9, 7, 1, 8, 1, 8]
+added digit: 98
+current line is: fmkbvzzgvl46fiveoneightqn
+all digits this line: [4, 6, 5, 1, 8]
+added digit: 48
+current line is: kvsonevxtmmxnfour4lpxjrbcfoursixp
+all digits this line: [1, 4, 4, 4, 6]
+added digit: 16
+current line is: 391onelktkfd1three2twonels
+all digits this line: [3, 9, 1, 1, 1, 3, 2, 2, 1]
+added digit: 31
+current line is: pn2
+all digits this line: [2]
+added digit: 22
+current line is: 3cmsmfvjchflngkrbtsfrblltwo
+all digits this line: [3, 2]
+added digit: 32
+current line is: eightfour8ninesix29
+all digits this line: [8, 4, 8, 9, 6, 2, 9]
+added digit: 89
+current line is: dpdvnonefour2eightbzzrvthmkgfcdv5
+all digits this line: [1, 4, 2, 8, 5]
+added digit: 15
+current line is: 59sfiverboneone3
+all digits this line: [5, 9, 5, 1, 1, 3]
+added digit: 53
+current line is: 6xrqq1
+all digits this line: [6, 1]
+added digit: 61
+current line is: 9bczfbfbhkntmdmseven68
+all digits this line: [9, 7, 6, 8]
+added digit: 98
+current line is: npqm35qszmptx
+all digits this line: [3, 5]
+added digit: 35
+current line is: fivepkdlmonefivesixz252
+all digits this line: [5, 1, 5, 6, 2, 5, 2]
+added digit: 52
+current line is: dzrtwonetbbv9twovrsp
+all digits this line: [2, 1, 9, 2]
+added digit: 22
+current line is: fpkfourfivendkhz6five
+all digits this line: [4, 5, 6, 5]
+added digit: 45
+current line is: 86dknvgcnmcslmztwo3
+all digits this line: [8, 6, 2, 3]
+added digit: 83
+current line is: fivetxrrzjpb6tqseightjthnhn
+all digits this line: [5, 6, 8]
+added digit: 58
+current line is: 362zhtxdgvcdgnzv55
+all digits this line: [3, 6, 2, 5, 5]
+added digit: 35
+current line is: eightsevenbllbgvdonethreeprglpjhxhqfdn6csnghrtl
+all digits this line: [8, 7, 1, 3, 6]
+added digit: 86
+current line is: 5fourc
+all digits this line: [5, 4]
+added digit: 54
+current line is: 8fournine3svdlh5sevenoneighttsq
+all digits this line: [8, 4, 9, 3, 5, 7, 1, 8]
+added digit: 88
+current line is: eightjkqmgljpprcpblvrthreeseven8fourone7
+all digits this line: [8, 3, 7, 8, 4, 1, 7]
+added digit: 87
+current line is: vqrqlhmb9seven231vbfzrrstwohjvdjgg
+all digits this line: [9, 7, 2, 3, 1, 2]
+added digit: 92
+current line is: kk1foursixeight849
+all digits this line: [1, 4, 6, 8, 8, 4, 9]
+added digit: 19
+current line is: seven13ttbnlr21
+all digits this line: [7, 1, 3, 2, 1]
+added digit: 71
+current line is: jfgsksrrkjsixsixthreesixfourrbxqzdhc9
+all digits this line: [6, 6, 3, 6, 4, 9]
+added digit: 69
+current line is: 3fiveeightqbndjdg6pmftqshone
+all digits this line: [3, 5, 8, 6, 1]
+added digit: 31
+current line is: nineoneseventkdpztbkk83two4
+all digits this line: [9, 1, 7, 8, 3, 2, 4]
+added digit: 94
+current line is: cjdbxhpzr87eight
+all digits this line: [8, 7, 8]
+added digit: 88
+current line is: twosevenkkdhf86sevendzhvkrttjljr
+all digits this line: [2, 7, 8, 6, 7]
+added digit: 27
+current line is: 67cdltmnbkktzseightsix7two
+all digits this line: [6, 7, 8, 6, 7, 2]
+added digit: 62
+current line is: three44zqtglqcffrkmhsgjfive
+all digits this line: [3, 4, 4, 5]
+added digit: 35
+current line is: twoonenbf74three9tthsvmngcx
+all digits this line: [2, 1, 7, 4, 3, 9]
+added digit: 29
+current line is: lvrnpvmvgvnnonesix5
+all digits this line: [1, 6, 5]
+added digit: 15
+current line is: nchcfxxphmnqbhfourxnine52sixj
+all digits this line: [4, 9, 5, 2, 6]
+added digit: 46
+current line is: fourqpvngjszftg88seven
+all digits this line: [4, 8, 8, 7]
+added digit: 47
+current line is: xgzmv133zvjmlfqhcmjbqzfntkjtpdjlkmv
+all digits this line: [1, 3, 3]
+added digit: 13
+current line is: fivejxc4threebzqbhrldsf
+all digits this line: [5, 4, 3]
+added digit: 53
+current line is: glvtpvnsevenqvrtcgjkhkcsix1seven
+all digits this line: [7, 6, 1, 7]
+added digit: 77
+current line is: sjeightwo4fivesevensixnqxsjckfive
+all digits this line: [8, 2, 4, 5, 7, 6, 5]
+added digit: 85
+current line is: z5
+all digits this line: [5]
+added digit: 55
+current line is: jxxhsmdvkglljhxzxljqz9zplmslcfdxxljtwosixkjxlsrfcx
+all digits this line: [9, 2, 6]
+added digit: 96
+current line is: fiversdslrkcqclzb7zdzlbllfkvphfqhnfour
+all digits this line: [5, 7, 4]
+added digit: 54
+current line is: five1hpdncfpzhdxrhnv4lblgthree7snj
+all digits this line: [5, 1, 4, 3, 7]
+added digit: 57
+current line is: 8scqf
+all digits this line: [8]
+added digit: 88
+current line is: threepcfkrhstmsbfvqxsxrctwo185six
+all digits this line: [3, 2, 1, 8, 5, 6]
+added digit: 36
+current line is: 7lqvpqxbjrv9nine985
+all digits this line: [7, 9, 9, 9, 8, 5]
+added digit: 75
+current line is: eight16jvfqcgbmhdgdltxz9
+all digits this line: [8, 1, 6, 9]
+added digit: 89
+current line is: three8vncqf9
+all digits this line: [3, 8, 9]
+added digit: 39
+current line is: zrzp9sevenxthpsxtdninebmnhgrkdjqqjfffourblbkch
+all digits this line: [9, 7, 9, 4]
+added digit: 94
+current line is: fiveseven25snpsnjgnfl
+all digits this line: [5, 7, 2, 5]
+added digit: 55
+current line is: ninefourxrtdlb1threefivefive1rbqzfbxtst
+all digits this line: [9, 4, 1, 3, 5, 5, 1]
+added digit: 91
+current line is: three8three7five41
+all digits this line: [3, 8, 3, 7, 5, 4, 1]
+added digit: 31
+current line is: tcnvsevenz45fngtjljh
+all digits this line: [7, 4, 5]
+added digit: 75
+current line is: txvpst1
+all digits this line: [1]
+added digit: 11
+current line is: eighthrlbmtk4nssknqmxjvjnqsqlfivekzrphrtwo
+all digits this line: [8, 4, 5, 2]
+added digit: 82
+current line is: two492ninekcjvllckdtkp
+all digits this line: [2, 4, 9, 2, 9]
+added digit: 29
+current line is: 48vlvmkcvbsfoursix8
+all digits this line: [4, 8, 4, 6, 8]
+added digit: 48
+current line is: eight28sixsix3nine45
+all digits this line: [8, 2, 8, 6, 6, 3, 9, 4, 5]
+added digit: 85
+current line is: jkm8hhqfclneightjlpsnck8dcvlvgkrfprflsvlh
+all digits this line: [8, 8, 8]
+added digit: 88
+current line is: 4zxjqlfn
+all digits this line: [4]
+added digit: 44
+current line is: fivebpqfjtcmlsixfour48onejqhzgtftrvkknngf
+all digits this line: [5, 6, 4, 4, 8, 1]
+added digit: 51
+current line is: dkfour7fivezzsjdbnvgninefivenine5
+all digits this line: [4, 7, 5, 9, 5, 9, 5]
+added digit: 45
+current line is: twoxjqldtk91eightneight
+all digits this line: [2, 9, 1, 8, 8]
+added digit: 28
+current line is: seven57177
+all digits this line: [7, 5, 7, 1, 7, 7]
+added digit: 77
+current line is: gpbqvlpxvnzgninefoureightthree5
+all digits this line: [9, 4, 8, 3, 5]
+added digit: 95
+current line is: bzprbrninesnjpgqthreeeightsixtgmvrthfour4
+all digits this line: [9, 3, 8, 6, 4, 4]
+added digit: 94
+current line is: 83brtxx4zzxsxrcfivebzbxlsl
+all digits this line: [8, 3, 4, 5]
+added digit: 85
+current line is: threesevenninetwo8twoone
+all digits this line: [3, 7, 9, 2, 8, 2, 1]
+added digit: 31
+current line is: veightwochrmfrkrcppxkj4tvvzmhqjhnjvtq1threegtmfnnjpxb
+all digits this line: [8, 2, 4, 1, 3]
+added digit: 83
+current line is: 3zgqpvq9krslgjgkjmtbsbhbjg
+all digits this line: [3, 9]
+added digit: 39
+current line is: 4nine8mhfs67vhdjvsjrlz2
+all digits this line: [4, 9, 8, 6, 7, 2]
+added digit: 42
+current line is: nine659xrvhhnnbqq7
+all digits this line: [9, 6, 5, 9, 7]
+added digit: 97
+current line is: bninetwoeight8fxntpdkrfp9eightnb
+all digits this line: [9, 2, 8, 8, 9, 8]
+added digit: 98
+current line is: qtwonecvbgxqfiveoneeight4five
+all digits this line: [2, 1, 5, 1, 8, 4, 5]
+added digit: 25
+current line is: seven926
+all digits this line: [7, 9, 2, 6]
+added digit: 76
+current line is: shkkksn4onefivethree
+all digits this line: [4, 1, 5, 3]
+added digit: 43
+current line is: eightsevenqvfqmzqsfn1
+all digits this line: [8, 7, 1]
+added digit: 81
+current line is: sixdgjmtk5fivevqbxxdzrjqdtgnnffzmfqxzjdzhp
+all digits this line: [6, 5, 5]
+added digit: 65
+current line is: stsjcmzbxt1
+all digits this line: [1]
+added digit: 11
+current line is: rvnone3three9twozchp26
+all digits this line: [1, 3, 3, 9, 2, 2, 6]
+added digit: 16
+current line is: ninefmpkdlvzfivetwo1
+all digits this line: [9, 5, 2, 1]
+added digit: 91
+current line is: four4one4vdpgp9lprtqjzmhk
+all digits this line: [4, 4, 1, 4, 9]
+added digit: 49
+current line is: 15rpdhczznrzclfcsxdx41
+all digits this line: [1, 5, 4, 1]
+added digit: 11
+current line is: seven36twopnvjdxrss5
+all digits this line: [7, 3, 6, 2, 5]
+added digit: 75
+current line is: 46ninenine
+all digits this line: [4, 6, 9, 9]
+added digit: 49
+current line is: 6jg8xtqfmjffdlfhzrn
+all digits this line: [6, 8]
+added digit: 68
+current line is: 2jsixfive573
+all digits this line: [2, 6, 5, 5, 7, 3]
+added digit: 23
+current line is: two8eight39fbqkdzseven9
+all digits this line: [2, 8, 8, 3, 9, 7, 9]
+added digit: 29
+current line is: 3gnrg5
+all digits this line: [3, 5]
+added digit: 35
+current line is: hlkk1
+all digits this line: [1]
+added digit: 11
+current line is: 1sevenfive7
+all digits this line: [1, 7, 5, 7]
+added digit: 17
+current line is: 72jvdqmlrddk
+all digits this line: [7, 2]
+added digit: 72
+current line is: ninetwo8hzdninesixnjhgrcsttwo
+all digits this line: [9, 2, 8, 9, 6, 2]
+added digit: 92
+current line is: 23cxdccvvjrjfsixlcrmxjkeight
+all digits this line: [2, 3, 6, 8]
+added digit: 28
+current line is: 6brqjfjsix56nine3
+all digits this line: [6, 6, 5, 6, 9, 3]
+added digit: 63
+current line is: ninezveighttwogc5two
+all digits this line: [9, 8, 2, 5, 2]
+added digit: 92
+current line is: ninexskpsth5sevennine
+all digits this line: [9, 5, 7, 9]
+added digit: 99
+current line is: c7jmmjcv
+all digits this line: [7]
+added digit: 77
+current line is: 89sixthreeeight71q
+all digits this line: [8, 9, 6, 3, 8, 7, 1]
+added digit: 81
+current line is: fivekccfngmxseven7onernfskqnqfive5
+all digits this line: [5, 7, 7, 1, 5, 5]
+added digit: 55
+current line is: sevensixone4hfhgs
+all digits this line: [7, 6, 1, 4]
+added digit: 74
+current line is: xq2jxddpdm3nine8ptqlm4
+all digits this line: [2, 3, 9, 8, 4]
+added digit: 24
+current line is: smsevendj19fbqdjpznfourgqq6
+all digits this line: [7, 1, 9, 4, 6]
+added digit: 76
+current line is: 7147
+all digits this line: [7, 1, 4, 7]
+added digit: 77
+current line is: znqbfmcpd4twoseven
+all digits this line: [4, 2, 7]
+added digit: 47
+current line is: fhcsmxtdx6
+all digits this line: [6]
+added digit: 66
+current line is: sxj2tcb92
+all digits this line: [2, 9, 2]
+added digit: 22
+current line is: 6nine6
+all digits this line: [6, 9, 6]
+added digit: 66
+current line is: qdfknmdzt88
+all digits this line: [8, 8]
+added digit: 88
+current line is: 66threebsndqlkrshfive5
+all digits this line: [6, 6, 3, 5, 5]
+added digit: 65
+current line is: eight7pckdhlqzrx24
+all digits this line: [8, 7, 2, 4]
+added digit: 84
+current line is: 3ninevk
+all digits this line: [3, 9]
+added digit: 39
+current line is: sevennine3
+all digits this line: [7, 9, 3]
+added digit: 73
+current line is: 8one1rjtnhjx
+all digits this line: [8, 1, 1]
+added digit: 81
+current line is: eightthree3ninekzhtlqsevenssprmrqhhgncrs
+all digits this line: [8, 3, 3, 9, 7]
+added digit: 87
+current line is: 6one8nlzxfxvr
+all digits this line: [6, 1, 8]
+added digit: 68
+current line is: 4cgm9fivethree
+all digits this line: [4, 9, 5, 3]
+added digit: 43
+current line is: four77gxvdqztzzgbsxhntwortndzqzj
+all digits this line: [4, 7, 7, 2]
+added digit: 42
+current line is: t8three335
+all digits this line: [8, 3, 3, 3, 5]
+added digit: 85
+current line is: c2rjggzl
+all digits this line: [2]
+added digit: 22
+current line is: jjgjbqgbnz4gdsqk66991
+all digits this line: [4, 6, 6, 9, 9, 1]
+added digit: 41
+current line is: ninezckbpsr9
+all digits this line: [9, 9]
+added digit: 99
+current line is: jb5sevenseven
+all digits this line: [5, 7, 7]
+added digit: 57
+current line is: one5nfdcvx
+all digits this line: [1, 5]
+added digit: 15
+current line is: 1kbcmclhrh1onejzft
+all digits this line: [1, 1, 1]
+added digit: 11
+current line is: fiveninefivedglztnjxblonehfive3
+all digits this line: [5, 9, 5, 1, 5, 3]
+added digit: 53
+current line is: 6onesixh6onethree9
+all digits this line: [6, 1, 6, 6, 1, 3, 9]
+added digit: 69
+current line is: spdzhnt5tpzrkh1fxlnine4skgzdln
+all digits this line: [5, 1, 9, 4]
+added digit: 54
+current line is: 1onenineqgzcq2eightwonh
+all digits this line: [1, 1, 9, 2, 8, 2]
+added digit: 12
+current line is: vfzvds826vtlrcg6rvseven
+all digits this line: [8, 2, 6, 6, 7]
+added digit: 87
+current line is: vqmoneight9tknqtcsmb
+all digits this line: [1, 8, 9]
+added digit: 19
+current line is: kqrcrqrqjbdeight7ckhr23
+all digits this line: [8, 7, 2, 3]
+added digit: 83
+current line is: oneeight2
+all digits this line: [1, 8, 2]
+added digit: 12
+current line is: 8eightnhtqcggtxc6dfsfcjfpznmsthree
+all digits this line: [8, 8, 6, 3]
+added digit: 83
+current line is: sxfvfdkff8dvlmbdktsixmzpnxzmml2
+all digits this line: [8, 6, 2]
+added digit: 82
+current line is: 9lgmxktj1frxl
+all digits this line: [9, 1]
+added digit: 91
+54649
